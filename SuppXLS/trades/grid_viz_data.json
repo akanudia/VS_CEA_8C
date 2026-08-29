@@ -64,6 +64,15 @@
       "sheet": "grid_links_FRA"
     },
     {
+      "commodity": "e_Brest_FRA",
+      "region": "FRA",
+      "lng": -4.193590431437424,
+      "lat": 48.44411120285312,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_FRA"
+    },
+    {
       "commodity": "e_Briancon_FRA",
       "region": "FRA",
       "lng": 6.712356523074227,
@@ -100,6 +109,15 @@
       "sheet": "grid_links_FRA"
     },
     {
+      "commodity": "e_Dijon_FRA",
+      "region": "FRA",
+      "lng": 4.687052443881729,
+      "lat": 47.325409278225415,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_FRA"
+    },
+    {
       "commodity": "e_Dunkerque_FRA",
       "region": "FRA",
       "lng": 2.279205406627083,
@@ -118,19 +136,19 @@
       "sheet": "grid_links_FRA"
     },
     {
-      "commodity": "e_Haguenau_FRA",
+      "commodity": "e_Goussainville_FRA",
       "region": "FRA",
-      "lng": 8.088601252415007,
-      "lat": 48.89795603874884,
+      "lng": 2.43242429472926,
+      "lat": 49.034071366124905,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
     },
     {
-      "commodity": "e_Landerneau_FRA",
+      "commodity": "e_Haguenau_FRA",
       "region": "FRA",
-      "lng": -3.8674802078711608,
-      "lat": 48.35458261883227,
+      "lng": 8.088601252415007,
+      "lat": 48.89795603874884,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
@@ -156,8 +174,8 @@
     {
       "commodity": "e_Lyon_FRA",
       "region": "FRA",
-      "lng": 4.975418075421235,
-      "lat": 45.67424510376249,
+      "lng": 5.122572671557378,
+      "lat": 45.66217008132662,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
@@ -185,6 +203,15 @@
       "region": "FRA",
       "lng": 7.572328408106124,
       "lat": 48.01874473173885,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_FRA"
+    },
+    {
+      "commodity": "e_Nantes_FRA",
+      "region": "FRA",
+      "lng": -1.8717479157022647,
+      "lat": 47.28609264062597,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
@@ -219,8 +246,8 @@
     {
       "commodity": "e_Perpignan_FRA",
       "region": "FRA",
-      "lng": 2.8013989585839205,
-      "lat": 42.7309373677418,
+      "lng": 2.802819193871092,
+      "lat": 42.73220348599344,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
@@ -271,19 +298,10 @@
       "sheet": "grid_links_FRA"
     },
     {
-      "commodity": "e_Troyes_FRA",
+      "commodity": "e_Toulouse_FRA",
       "region": "FRA",
-      "lng": 3.918529736415025,
-      "lat": 48.51985667140374,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_FRA"
-    },
-    {
-      "commodity": "e_Valence_FRA",
-      "region": "FRA",
-      "lng": 4.723430061524262,
-      "lat": 44.63241097184969,
+      "lng": 1.672305110231492,
+      "lat": 43.629657013934846,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_FRA"
@@ -964,276 +982,6 @@
       "sheet": "grid_links_FRA"
     },
     {
-      "commodity": "e_Arlon_BEL",
-      "region": "BEL",
-      "lng": 5.797337981197888,
-      "lat": 49.56518402455743,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Aubange_BEL",
-      "region": "BEL",
-      "lng": 5.797070129525487,
-      "lat": 49.5653394734242,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Bruges_BEL",
-      "region": "BEL",
-      "lng": 3.2097203853314906,
-      "lat": 51.265068493245366,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Brussels_BEL",
-      "region": "BEL",
-      "lng": 4.246895926331504,
-      "lat": 51.15409670154824,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Gent_BEL",
-      "region": "BEL",
-      "lng": 3.604573674310207,
-      "lat": 51.11472178694894,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Kortrijk_BEL",
-      "region": "BEL",
-      "lng": 3.469382048315262,
-      "lat": 50.78267149514267,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Liege_BEL",
-      "region": "BEL",
-      "lng": 5.286360442097222,
-      "lat": 50.512388169528826,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Namur_BEL",
-      "region": "BEL",
-      "lng": 5.055717702670478,
-      "lat": 50.2606342370821,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Schaarbeek_BEL",
-      "region": "BEL",
-      "lng": 4.219809076841336,
-      "lat": 50.7619442021603,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "e_Seraing_BEL",
-      "region": "BEL",
-      "lng": 5.843538053083439,
-      "lat": 50.375680318116096,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_001",
-      "region": "BEL",
-      "lng": 4.4815,
-      "lat": 50.06455986947364,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_002",
-      "region": "BEL",
-      "lng": 3.425554176112327,
-      "lat": 50.27566990906887,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_003",
-      "region": "BEL",
-      "lng": 4.481500000000001,
-      "lat": 50.95398726296111,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_004",
-      "region": "BEL",
-      "lng": 3.0966883420465634,
-      "lat": 50.85281627142309,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_005",
-      "region": "BEL",
-      "lng": 3.789094171023281,
-      "lat": 50.93765216515372,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_006",
-      "region": "BEL",
-      "lng": 5.866311657953437,
-      "lat": 50.27566990906887,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_007",
-      "region": "BEL",
-      "lng": 5.173905828976718,
-      "lat": 50.032828324426106,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_008",
-      "region": "BEL",
-      "lng": 5.511671653955835,
-      "lat": 50.725330090931145,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_009",
-      "region": "BEL",
-      "lng": 5.173905828976718,
-      "lat": 51.174990272793416,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_spv_BEL_010",
-      "region": "BEL",
-      "lng": 5.866311657953437,
-      "lat": 51.174990272793416,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_001",
-      "region": "BEL",
-      "lng": 3.505423036536416,
-      "lat": 51.174990272793416,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_002",
-      "region": "BEL",
-      "lng": 3.377465973282713,
-      "lat": 50.574396248976775,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_003",
-      "region": "BEL",
-      "lng": 5.173905828976718,
-      "lat": 49.8260097272066,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_004",
-      "region": "BEL",
-      "lng": 5.866311657953438,
-      "lat": 49.8260097272066,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_005",
-      "region": "BEL",
-      "lng": 4.891819872385746,
-      "lat": 51.17499027279341,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_006",
-      "region": "BEL",
-      "lng": 5.866311657953437,
-      "lat": 51.174990272793416,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_007",
-      "region": "BEL",
-      "lng": 5.557624040073522,
-      "lat": 50.27566990906887,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_008",
-      "region": "BEL",
-      "lng": 5.866311657953437,
-      "lat": 50.725330090931145,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_009",
-      "region": "BEL",
-      "lng": 4.8743206839063005,
-      "lat": 50.72533009093114,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
-      "commodity": "elc_won_BEL_010",
-      "region": "BEL",
-      "lng": 4.145316195817264,
-      "lat": 50.27566990906888,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_BEL"
-    },
-    {
       "commodity": "e_Aberdeen_GBR",
       "region": "GBR",
       "lng": -2.384021498835101,
@@ -1279,15 +1027,6 @@
       "sheet": "grid_links_GBR"
     },
     {
-      "commodity": "e_Glasgow_GBR",
-      "region": "GBR",
-      "lng": -4.256805779935858,
-      "lat": 55.90303777310213,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_GBR"
-    },
-    {
       "commodity": "e_Ipswich_GBR",
       "region": "GBR",
       "lng": 1.0618678452808807,
@@ -1324,15 +1063,6 @@
       "sheet": "grid_links_GBR"
     },
     {
-      "commodity": "e_Manchester_GBR",
-      "region": "GBR",
-      "lng": -2.3791827939912915,
-      "lat": 53.42611869761402,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_GBR"
-    },
-    {
       "commodity": "e_Newcastle_GBR",
       "region": "GBR",
       "lng": -1.5404269162550226,
@@ -1364,24 +1094,6 @@
       "region": "GBR",
       "lng": -1.194439480272105,
       "lat": 50.81803563886026,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_GBR"
-    },
-    {
-      "commodity": "e_Preston_GBR",
-      "region": "GBR",
-      "lng": -2.8906542951356453,
-      "lat": 54.032540877565616,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_GBR"
-    },
-    {
-      "commodity": "e_Reading_GBR",
-      "region": "GBR",
-      "lng": -1.077280274941815,
-      "lat": 51.33629200924365,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_GBR"
@@ -2089,388 +1801,289 @@
       "sheet": "grid_links_GBR"
     },
     {
-      "commodity": "e_Amsterdam_NLD",
-      "region": "NLD",
-      "lng": 4.679143231304081,
-      "lat": 52.47266212490795,
+      "commodity": "e_Arlon_BEL",
+      "region": "BEL",
+      "lng": 5.797337981197888,
+      "lat": 49.56518402455743,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Apeldoorn_NLD",
-      "region": "NLD",
-      "lng": 6.190173187962263,
-      "lat": 52.529986002303126,
+      "commodity": "e_Aubange_BEL",
+      "region": "BEL",
+      "lng": 5.797070129525487,
+      "lat": 49.5653394734242,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Dokkum_NLD",
-      "region": "NLD",
-      "lng": 6.04163,
-      "lat": 54.03696999550894,
+      "commodity": "e_Bruges_BEL",
+      "region": "BEL",
+      "lng": 3.2097203853314906,
+      "lat": 51.265068493245366,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Eindhoven_NLD",
-      "region": "NLD",
-      "lng": 5.532679075463205,
-      "lat": 51.44649572108322,
+      "commodity": "e_Brussels_BEL",
+      "region": "BEL",
+      "lng": 4.246895926331504,
+      "lat": 51.15409670154824,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Enschede_NLD",
-      "region": "NLD",
-      "lng": 6.759177522035682,
-      "lat": 52.248856707990974,
+      "commodity": "e_Charleroi_BEL",
+      "region": "BEL",
+      "lng": 4.371866073466014,
+      "lat": 50.39377464901506,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Groningen_NLD",
-      "region": "NLD",
-      "lng": 6.86857117953898,
-      "lat": 53.43740054436535,
+      "commodity": "e_Gent_BEL",
+      "region": "BEL",
+      "lng": 3.604573674310207,
+      "lat": 51.11472178694894,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Leeuwarden_NLD",
-      "region": "NLD",
-      "lng": 5.875599596934527,
-      "lat": 53.18955594282147,
+      "commodity": "e_Hasselt_BEL",
+      "region": "BEL",
+      "lng": 5.774222176369358,
+      "lat": 51.12104048442696,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Maastricht_NLD",
-      "region": "NLD",
-      "lng": 5.918474082201949,
-      "lat": 51.1484319333322,
+      "commodity": "e_Kortrijk_BEL",
+      "region": "BEL",
+      "lng": 3.469382048315262,
+      "lat": 50.78267149514267,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Middelburg_NLD",
-      "region": "NLD",
-      "lng": 3.056667,
-      "lat": 51.6999999946044,
+      "commodity": "e_Liege_BEL",
+      "region": "BEL",
+      "lng": 5.286360442097222,
+      "lat": 50.512388169528826,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Nijmegen_NLD",
-      "region": "NLD",
-      "lng": 6.251762402588893,
-      "lat": 51.98171748595875,
+      "commodity": "e_Namur_BEL",
+      "region": "BEL",
+      "lng": 5.055717702670478,
+      "lat": 50.2606342370821,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Roosendaal_NLD",
-      "region": "NLD",
-      "lng": 4.2187196468336765,
-      "lat": 51.42385981899704,
+      "commodity": "e_Seraing_BEL",
+      "region": "BEL",
+      "lng": 5.843538053083439,
+      "lat": 50.375680318116096,
       "kind": "bus",
       "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "e_Rotterdam_NLD",
-      "region": "NLD",
-      "lng": 4.022206682809479,
-      "lat": 51.95508818099948,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_TheHague_NLD",
-      "region": "NLD",
-      "lng": 4.043000000000005,
-      "lat": 52.319329994865896,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Tilburg_NLD",
-      "region": "NLD",
-      "lng": 4.833331644263822,
-      "lat": 51.70026041457903,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Veendam_NLD",
-      "region": "NLD",
-      "lng": 6.867110161353447,
-      "lat": 53.43563175554328,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_001",
-      "region": "NLD",
-      "lng": 5.234784476488788,
-      "lat": 52.81949770520731,
+      "commodity": "elc_spv_BEL_001",
+      "region": "BEL",
+      "lng": 4.4815,
+      "lat": 50.06455986947364,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_002",
-      "region": "NLD",
-      "lng": 6.619067351509676,
-      "lat": 52.8150846678453,
+      "commodity": "elc_spv_BEL_002",
+      "region": "BEL",
+      "lng": 3.425554176112327,
+      "lat": 50.27566990906887,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_003",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.50691880321298,
+      "commodity": "elc_spv_BEL_003",
+      "region": "BEL",
+      "lng": 4.481500000000001,
+      "lat": 50.95398726296111,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_004",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.014849545344326,
+      "commodity": "elc_spv_BEL_004",
+      "region": "BEL",
+      "lng": 3.0966883420465634,
+      "lat": 50.85281627142309,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_005",
-      "region": "NLD",
-      "lng": 4.991473150167933,
-      "lat": 51.4645097272066,
+      "commodity": "elc_spv_BEL_005",
+      "region": "BEL",
+      "lng": 3.789094171023281,
+      "lat": 50.93765216515372,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_006",
-      "region": "NLD",
-      "lng": 5.16167153066892,
-      "lat": 52.03743593729239,
+      "commodity": "elc_spv_BEL_006",
+      "region": "BEL",
+      "lng": 5.866311657953437,
+      "lat": 50.27566990906887,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_007",
-      "region": "NLD",
-      "lng": 6.714731292779038,
-      "lat": 52.13028914343916,
+      "commodity": "elc_spv_BEL_007",
+      "region": "BEL",
+      "lng": 5.173905828976718,
+      "lat": 50.032828324426106,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_008",
-      "region": "NLD",
-      "lng": 6.004365646389518,
-      "lat": 52.07007055213939,
+      "commodity": "elc_spv_BEL_008",
+      "region": "BEL",
+      "lng": 5.511671653955835,
+      "lat": 50.725330090931145,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_009",
-      "region": "NLD",
-      "lng": 5.628376953580943,
-      "lat": 51.01484954534433,
+      "commodity": "elc_spv_BEL_009",
+      "region": "BEL",
+      "lng": 5.173905828976718,
+      "lat": 51.174990272793416,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_spv_NLD_010",
-      "region": "NLD",
-      "lng": 6.004365646389517,
-      "lat": 51.4645097272066,
+      "commodity": "elc_spv_BEL_010",
+      "region": "BEL",
+      "lng": 5.866311657953437,
+      "lat": 51.174990272793416,
       "kind": "spv",
       "kind_label": "solar",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_wof_NLD_001",
-      "region": "NLD",
-      "lng": 3.107133194718686,
-      "lat": 52.34484927397537,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_002",
-      "region": "NLD",
-      "lng": 3.1071343638324347,
-      "lat": 53.69379578381529,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_003",
-      "region": "NLD",
-      "lng": 3.107134779797478,
-      "lat": 54.143444276967365,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_004",
-      "region": "NLD",
-      "lng": 4.527932612035264,
-      "lat": 54.14344385338472,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_005",
-      "region": "NLD",
-      "lng": 4.527932953602623,
-      "lat": 54.59309217245873,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_001",
-      "region": "NLD",
-      "lng": 6.004365646389518,
-      "lat": 51.91416990906886,
+      "commodity": "elc_won_BEL_001",
+      "region": "BEL",
+      "lng": 3.505423036536416,
+      "lat": 51.174990272793416,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_002",
-      "region": "NLD",
-      "lng": 5.635222797853418,
-      "lat": 51.01484954534433,
+      "commodity": "elc_won_BEL_002",
+      "region": "BEL",
+      "lng": 3.377465973282713,
+      "lat": 50.574396248976775,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_003",
-      "region": "NLD",
-      "lng": 4.987730393544114,
-      "lat": 51.46450972720661,
+      "commodity": "elc_won_BEL_003",
+      "region": "BEL",
+      "lng": 5.173905828976718,
+      "lat": 49.8260097272066,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_004",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.01484954534434,
+      "commodity": "elc_won_BEL_004",
+      "region": "BEL",
+      "lng": 5.866311657953438,
+      "lat": 49.8260097272066,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_005",
-      "region": "NLD",
-      "lng": 6.0383114660284525,
-      "lat": 53.26315045465568,
+      "commodity": "elc_won_BEL_005",
+      "region": "BEL",
+      "lng": 4.891819872385746,
+      "lat": 51.17499027279341,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_006",
-      "region": "NLD",
-      "lng": 5.119626294695908,
-      "lat": 53.26315045465569,
+      "commodity": "elc_won_BEL_006",
+      "region": "BEL",
+      "lng": 5.866311657953437,
+      "lat": 51.174990272793416,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_007",
-      "region": "NLD",
-      "lng": 5.114550981103037,
-      "lat": 52.69989936523427,
+      "commodity": "elc_won_BEL_007",
+      "region": "BEL",
+      "lng": 5.557624040073522,
+      "lat": 50.27566990906887,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_008",
-      "region": "NLD",
-      "lng": 6.483992840575168,
-      "lat": 52.55441437376838,
+      "commodity": "elc_won_BEL_008",
+      "region": "BEL",
+      "lng": 5.866311657953437,
+      "lat": 50.725330090931145,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_009",
-      "region": "NLD",
-      "lng": 4.915113321345397,
-      "lat": 52.12399550194876,
+      "commodity": "elc_won_BEL_009",
+      "region": "BEL",
+      "lng": 4.8743206839063005,
+      "lat": 50.72533009093114,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
-      "commodity": "elc_won_NLD_010",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.4645097272066,
+      "commodity": "elc_won_BEL_010",
+      "region": "BEL",
+      "lng": 4.145316195817264,
+      "lat": 50.27566990906888,
       "kind": "won",
       "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
+      "sheet": "grid_links_BEL"
     },
     {
       "commodity": "e_Amberg_DEU",
       "region": "DEU",
       "lng": 12.114082906402942,
       "lat": 49.631130051358056,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
-      "commodity": "e_BadHersfeld_DEU",
-      "region": "DEU",
-      "lng": 9.745926128912268,
-      "lat": 50.917625710139,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
-      "commodity": "e_Bamberg_DEU",
-      "region": "DEU",
-      "lng": 11.193124206311712,
-      "lat": 50.16204719462179,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_DEU"
@@ -2498,15 +2111,6 @@
       "region": "DEU",
       "lng": 6.700418609395516,
       "lat": 51.00883053646955,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
-      "commodity": "e_Cottbus_DEU",
-      "region": "DEU",
-      "lng": 13.901313062345432,
-      "lat": 51.87594792031688,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_DEU"
@@ -2575,15 +2179,6 @@
       "sheet": "grid_links_DEU"
     },
     {
-      "commodity": "e_Frankfurt_DEU",
-      "region": "DEU",
-      "lng": 8.958854613206562,
-      "lat": 50.0827044931374,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
       "commodity": "e_FreiburgImBreisgau_DEU",
       "region": "DEU",
       "lng": 7.75200057832894,
@@ -2640,8 +2235,8 @@
     {
       "commodity": "e_Kempten_DEU",
       "region": "DEU",
-      "lng": 10.362641741683367,
-      "lat": 47.73875491677088,
+      "lng": 10.362357736295506,
+      "lat": 47.73856494861932,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_DEU"
@@ -2687,15 +2282,6 @@
       "region": "DEU",
       "lng": 13.055761459215091,
       "lat": 48.27020226512334,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
-      "commodity": "e_Munich_DEU",
-      "region": "DEU",
-      "lng": 11.867553509098414,
-      "lat": 48.20688465422294,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_DEU"
@@ -2755,15 +2341,6 @@
       "sheet": "grid_links_DEU"
     },
     {
-      "commodity": "e_Rostock_DEU",
-      "region": "DEU",
-      "lng": 12.185744487521829,
-      "lat": 53.81489534644777,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_DEU"
-    },
-    {
       "commodity": "e_Saarbrucken_DEU",
       "region": "DEU",
       "lng": 6.77335027184804,
@@ -2786,6 +2363,15 @@
       "region": "DEU",
       "lng": 6.5772128171996425,
       "lat": 49.76943400223032,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_DEU"
+    },
+    {
+      "commodity": "e_Ulm_DEU",
+      "region": "DEU",
+      "lng": 10.065065841439525,
+      "lat": 48.27273013492908,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_DEU"
@@ -3331,15 +2917,6 @@
       "sheet": "grid_links_CHE"
     },
     {
-      "commodity": "e_Basel_CHE",
-      "region": "CHE",
-      "lng": 7.973146967603175,
-      "lat": 47.36549985519219,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_CHE"
-    },
-    {
       "commodity": "e_Bellinzona_CHE",
       "region": "CHE",
       "lng": 8.837729865428164,
@@ -3376,10 +2953,19 @@
       "sheet": "grid_links_CHE"
     },
     {
+      "commodity": "e_Brugg_CHE",
+      "region": "CHE",
+      "lng": 8.050917058147766,
+      "lat": 47.54999622407195,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_CHE"
+    },
+    {
       "commodity": "e_Chur_CHE",
       "region": "CHE",
-      "lng": 9.379148514658684,
-      "lat": 46.81133209927652,
+      "lng": 9.46737645038179,
+      "lat": 46.70486367263559,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_CHE"
@@ -3396,8 +2982,17 @@
     {
       "commodity": "e_Dietikon_CHE",
       "region": "CHE",
-      "lng": 8.050917058147766,
-      "lat": 47.54999622407195,
+      "lng": 8.050836321138025,
+      "lat": 47.54976885716907,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_CHE"
+    },
+    {
+      "commodity": "e_Fully_CHE",
+      "region": "CHE",
+      "lng": 7.209400949620384,
+      "lat": 46.15852172448291,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_CHE"
@@ -3425,15 +3020,6 @@
       "region": "CHE",
       "lng": 10.332156238823757,
       "lat": 46.80495634467607,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_CHE"
-    },
-    {
-      "commodity": "e_Lausanne_CHE",
-      "region": "CHE",
-      "lng": 6.8250681999999925,
-      "lat": 46.26525589155308,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_CHE"
@@ -3488,15 +3074,6 @@
       "region": "CHE",
       "lng": 9.555875770434607,
       "lat": 47.30267280762378,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_CHE"
-    },
-    {
-      "commodity": "e_Sion_CHE",
-      "region": "CHE",
-      "lng": 7.557798354135443,
-      "lat": 46.28703669094423,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_CHE"
@@ -3718,10 +3295,10 @@
       "sheet": "grid_links_ITA"
     },
     {
-      "commodity": "e_Castrovillari_ITA",
+      "commodity": "e_Civitavecchia_ITA",
       "region": "ITA",
-      "lng": 16.027759598542385,
-      "lat": 39.98981680018001,
+      "lng": 11.601577912388697,
+      "lat": 42.37565954769383,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ITA"
@@ -3808,15 +3385,6 @@
       "sheet": "grid_links_ITA"
     },
     {
-      "commodity": "e_Naples_ITA",
-      "region": "ITA",
-      "lng": 14.27884875309039,
-      "lat": 40.94892030983893,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ITA"
-    },
-    {
       "commodity": "e_Palermo_ITA",
       "region": "ITA",
       "lng": 13.731829277129734,
@@ -3880,10 +3448,10 @@
       "sheet": "grid_links_ITA"
     },
     {
-      "commodity": "e_Sondrio_ITA",
+      "commodity": "e_Tirano_ITA",
       "region": "ITA",
-      "lng": 10.04736893935458,
-      "lat": 46.06071718818427,
+      "lng": 10.351466770783066,
+      "lat": 46.05053163042619,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ITA"
@@ -3900,26 +3468,8 @@
     {
       "commodity": "e_Trieste_ITA",
       "region": "ITA",
-      "lng": 13.471471226410229,
-      "lat": 45.85215942671775,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ITA"
-    },
-    {
-      "commodity": "e_Turin_ITA",
-      "region": "ITA",
-      "lng": 7.935630633718297,
-      "lat": 45.23192542730615,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ITA"
-    },
-    {
-      "commodity": "e_Venice_ITA",
-      "region": "ITA",
-      "lng": 12.114331486098123,
-      "lat": 45.40107443355991,
+      "lng": 13.471797490793072,
+      "lat": 45.85220939419533,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ITA"
@@ -3929,15 +3479,6 @@
       "region": "ITA",
       "lng": 8.259255785333869,
       "lat": 46.04830949252275,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ITA"
-    },
-    {
-      "commodity": "e_Viterbo_ITA",
-      "region": "ITA",
-      "lng": 11.799745218822643,
-      "lat": 42.16500409695634,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ITA"
@@ -4519,15 +4060,6 @@
       "sheet": "grid_links_ESP"
     },
     {
-      "commodity": "e_Alcaniz_ESP",
-      "region": "ESP",
-      "lng": -0.2805055592536858,
-      "lat": 41.21730760131321,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ESP"
-    },
-    {
       "commodity": "e_Algeciras_ESP",
       "region": "ESP",
       "lng": -5.412339451502056,
@@ -4541,24 +4073,6 @@
       "region": "ESP",
       "lng": 2.0095473817207488,
       "lat": 41.47322669800983,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ESP"
-    },
-    {
-      "commodity": "e_Bilbao_ESP",
-      "region": "ESP",
-      "lng": -3.0311169110021066,
-      "lat": 43.21872480485869,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ESP"
-    },
-    {
-      "commodity": "e_Burgos_ESP",
-      "region": "ESP",
-      "lng": -3.780772684080437,
-      "lat": 42.34104579268045,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ESP"
@@ -4627,15 +4141,6 @@
       "sheet": "grid_links_ESP"
     },
     {
-      "commodity": "e_Madrid_ESP",
-      "region": "ESP",
-      "lng": -3.596069806389134,
-      "lat": 40.56561583089582,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ESP"
-    },
-    {
       "commodity": "e_NavalmoralDeLaMata_ESP",
       "region": "ESP",
       "lng": -5.6930190408472,
@@ -4663,15 +4168,6 @@
       "sheet": "grid_links_ESP"
     },
     {
-      "commodity": "e_Sevilla_ESP",
-      "region": "ESP",
-      "lng": -6.097442780543074,
-      "lat": 37.63661285361392,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_ESP"
-    },
-    {
       "commodity": "e_Valencia_ESP",
       "region": "ESP",
       "lng": -0.2354476169104305,
@@ -4683,8 +4179,8 @@
     {
       "commodity": "e_Valladolid_ESP",
       "region": "ESP",
-      "lng": -4.936462619093027,
-      "lat": 41.78962212992087,
+      "lng": -4.936666716795378,
+      "lat": 41.789396896758,
       "kind": "bus",
       "kind_label": "grid bus",
       "sheet": "grid_links_ESP"
@@ -5336,6 +4832,348 @@
       "kind": "won",
       "kind_label": "wind onshore",
       "sheet": "grid_links_ESP"
+    },
+    {
+      "commodity": "e_Amsterdam_NLD",
+      "region": "NLD",
+      "lng": 4.679143231304081,
+      "lat": 52.47266212490795,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Apeldoorn_NLD",
+      "region": "NLD",
+      "lng": 6.190173187962263,
+      "lat": 52.529986002303126,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Eindhoven_NLD",
+      "region": "NLD",
+      "lng": 5.532679075463205,
+      "lat": 51.44649572108322,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Enschede_NLD",
+      "region": "NLD",
+      "lng": 6.759177522035682,
+      "lat": 52.248856707990974,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Groningen_NLD",
+      "region": "NLD",
+      "lng": 6.867110161353447,
+      "lat": 53.43563175554328,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Hoogezand_NLD",
+      "region": "NLD",
+      "lng": 6.950667098919838,
+      "lat": 53.1240201342966,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Leeuwarden_NLD",
+      "region": "NLD",
+      "lng": 5.875599596934527,
+      "lat": 53.18955594282147,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Maastricht_NLD",
+      "region": "NLD",
+      "lng": 5.918474082201949,
+      "lat": 51.1484319333322,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Nijmegen_NLD",
+      "region": "NLD",
+      "lng": 6.251762402588893,
+      "lat": 51.98171748595875,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Roosendaal_NLD",
+      "region": "NLD",
+      "lng": 4.2187196468336765,
+      "lat": 51.42385981899704,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Rotterdam_NLD",
+      "region": "NLD",
+      "lng": 4.021609637881493,
+      "lat": 51.95695895697931,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Tilburg_NLD",
+      "region": "NLD",
+      "lng": 4.833331644263822,
+      "lat": 51.70026041457903,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Veendam_NLD",
+      "region": "NLD",
+      "lng": 6.866264187775912,
+      "lat": 53.43462812475893,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_001",
+      "region": "NLD",
+      "lng": 5.234784476488788,
+      "lat": 52.81949770520731,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_002",
+      "region": "NLD",
+      "lng": 6.619067351509676,
+      "lat": 52.8150846678453,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_003",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.50691880321298,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_004",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.014849545344326,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_005",
+      "region": "NLD",
+      "lng": 4.991473150167933,
+      "lat": 51.4645097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_006",
+      "region": "NLD",
+      "lng": 5.16167153066892,
+      "lat": 52.03743593729239,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_007",
+      "region": "NLD",
+      "lng": 6.714731292779038,
+      "lat": 52.13028914343916,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_008",
+      "region": "NLD",
+      "lng": 6.004365646389518,
+      "lat": 52.07007055213939,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_009",
+      "region": "NLD",
+      "lng": 5.628376953580943,
+      "lat": 51.01484954534433,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_010",
+      "region": "NLD",
+      "lng": 6.004365646389517,
+      "lat": 51.4645097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_001",
+      "region": "NLD",
+      "lng": 3.107133194718686,
+      "lat": 52.34484927397537,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_002",
+      "region": "NLD",
+      "lng": 3.1071343638324347,
+      "lat": 53.69379578381529,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_003",
+      "region": "NLD",
+      "lng": 3.107134779797478,
+      "lat": 54.143444276967365,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_004",
+      "region": "NLD",
+      "lng": 4.527932612035264,
+      "lat": 54.14344385338472,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_005",
+      "region": "NLD",
+      "lng": 4.527932953602623,
+      "lat": 54.59309217245873,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_001",
+      "region": "NLD",
+      "lng": 6.004365646389518,
+      "lat": 51.91416990906886,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_002",
+      "region": "NLD",
+      "lng": 5.635222797853418,
+      "lat": 51.01484954534433,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_003",
+      "region": "NLD",
+      "lng": 4.987730393544114,
+      "lat": 51.46450972720661,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_004",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.01484954534434,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_005",
+      "region": "NLD",
+      "lng": 6.0383114660284525,
+      "lat": 53.26315045465568,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_006",
+      "region": "NLD",
+      "lng": 5.119626294695908,
+      "lat": 53.26315045465569,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_007",
+      "region": "NLD",
+      "lng": 5.114550981103037,
+      "lat": 52.69989936523427,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_008",
+      "region": "NLD",
+      "lng": 6.483992840575168,
+      "lat": 52.55441437376838,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_009",
+      "region": "NLD",
+      "lng": 4.915113321345397,
+      "lat": 52.12399550194876,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_010",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.4645097272066,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
     }
   ],
   "links": [
@@ -5417,17 +5255,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Aurillac_FRA-Valence_FRA",
-      "comm1": "e_Aurillac_FRA",
-      "comm2": "e_Valence_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
       "tech": "g_Bayonne_FRA-Bordeaux_FRA",
       "comm1": "e_Bayonne_FRA",
       "comm2": "e_Bordeaux_FRA",
@@ -5472,17 +5299,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Belfort_FRA-Troyes_FRA",
-      "comm1": "e_Belfort_FRA",
-      "comm2": "e_Troyes_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
       "tech": "g_Bordeaux_FRA-Aurillac_FRA",
       "comm1": "e_Bordeaux_FRA",
       "comm2": "e_Aurillac_FRA",
@@ -5494,9 +5310,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Bordeaux_FRA-Lourdes_FRA",
+      "tech": "g_Bordeaux_FRA-Toulouse_FRA",
       "comm1": "e_Bordeaux_FRA",
-      "comm2": "e_Lourdes_FRA",
+      "comm2": "e_Toulouse_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5505,9 +5321,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Caen_FRA-Bordeaux_FRA",
-      "comm1": "e_Caen_FRA",
-      "comm2": "e_Bordeaux_FRA",
+      "tech": "g_Brest_FRA-Nantes_FRA",
+      "comm1": "e_Brest_FRA",
+      "comm2": "e_Nantes_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Brest_FRA-SaintLo_FRA",
+      "comm1": "e_Brest_FRA",
+      "comm2": "e_SaintLo_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5549,9 +5376,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Calais_FRA-Paris_FRA",
+      "tech": "g_Calais_FRA-Goussainville_FRA",
       "comm1": "e_Calais_FRA",
-      "comm2": "e_Paris_FRA",
+      "comm2": "e_Goussainville_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5573,6 +5400,72 @@
     {
       "tech": "g_CharlevilleMeziere_FRA-Thionville_FRA",
       "comm1": "e_CharlevilleMeziere_FRA",
+      "comm2": "e_Thionville_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-Annecy_FRA",
+      "comm1": "e_Dijon_FRA",
+      "comm2": "e_Annecy_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-Aurillac_FRA",
+      "comm1": "e_Dijon_FRA",
+      "comm2": "e_Aurillac_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-Belfort_FRA",
+      "comm1": "e_Dijon_FRA",
+      "comm2": "e_Belfort_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-CharlevilleMeziere_FRA",
+      "comm1": "e_Dijon_FRA",
+      "comm2": "e_CharlevilleMeziere_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-Metz_FRA",
+      "comm1": "e_Dijon_FRA",
+      "comm2": "e_Metz_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dijon_FRA-Thionville_FRA",
+      "comm1": "e_Dijon_FRA",
       "comm2": "e_Thionville_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
@@ -5615,9 +5508,42 @@
       "cross_border": false
     },
     {
-      "tech": "g_Landerneau_FRA-SaintLo_FRA",
-      "comm1": "e_Landerneau_FRA",
-      "comm2": "e_SaintLo_FRA",
+      "tech": "g_Goussainville_FRA-CharlevilleMeziere_FRA",
+      "comm1": "e_Goussainville_FRA",
+      "comm2": "e_CharlevilleMeziere_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Goussainville_FRA-Dijon_FRA",
+      "comm1": "e_Goussainville_FRA",
+      "comm2": "e_Dijon_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Goussainville_FRA-Lille_FRA",
+      "comm1": "e_Goussainville_FRA",
+      "comm2": "e_Lille_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Goussainville_FRA-Paris_FRA",
+      "comm1": "e_Goussainville_FRA",
+      "comm2": "e_Paris_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5637,31 +5563,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lille_FRA-Paris_FRA",
-      "comm1": "e_Lille_FRA",
-      "comm2": "e_Paris_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Lourdes_FRA-Aurillac_FRA",
+      "tech": "g_Lourdes_FRA-Toulouse_FRA",
       "comm1": "e_Lourdes_FRA",
-      "comm2": "e_Aurillac_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Lourdes_FRA-Perpignan_FRA",
-      "comm1": "e_Lourdes_FRA",
-      "comm2": "e_Perpignan_FRA",
+      "comm2": "e_Toulouse_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5703,9 +5607,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lyon_FRA-Troyes_FRA",
+      "tech": "g_Lyon_FRA-Dijon_FRA",
       "comm1": "e_Lyon_FRA",
-      "comm2": "e_Troyes_FRA",
+      "comm2": "e_Dijon_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5758,9 +5662,64 @@
       "cross_border": false
     },
     {
+      "tech": "g_Nantes_FRA-Bordeaux_FRA",
+      "comm1": "e_Nantes_FRA",
+      "comm2": "e_Bordeaux_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nantes_FRA-Caen_FRA",
+      "comm1": "e_Nantes_FRA",
+      "comm2": "e_Caen_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nantes_FRA-Paris_FRA",
+      "comm1": "e_Nantes_FRA",
+      "comm2": "e_Paris_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nantes_FRA-SaintLo_FRA",
+      "comm1": "e_Nantes_FRA",
+      "comm2": "e_SaintLo_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
       "tech": "g_Nimes_FRA-Briancon_FRA",
       "comm1": "e_Nimes_FRA",
       "comm2": "e_Briancon_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nimes_FRA-Lyon_FRA",
+      "comm1": "e_Nimes_FRA",
+      "comm2": "e_Lyon_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5780,31 +5739,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Nimes_FRA-Valence_FRA",
-      "comm1": "e_Nimes_FRA",
-      "comm2": "e_Valence_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Paris_FRA-Lille_FRA",
+      "tech": "g_Paris_FRA-Dijon_FRA",
       "comm1": "e_Paris_FRA",
-      "comm2": "e_Lille_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Paris_FRA-Troyes_FRA",
-      "comm1": "e_Paris_FRA",
-      "comm2": "e_Troyes_FRA",
+      "comm2": "e_Dijon_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5835,9 +5772,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Rouen_FRA-Paris_FRA",
-      "comm1": "e_Rouen_FRA",
-      "comm2": "e_Paris_FRA",
+      "tech": "g_Perpignan_FRA-Toulouse_FRA",
+      "comm1": "e_Perpignan_FRA",
+      "comm2": "e_Toulouse_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5846,9 +5783,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_SaintLo_FRA-Bordeaux_FRA",
-      "comm1": "e_SaintLo_FRA",
-      "comm2": "e_Bordeaux_FRA",
+      "tech": "g_Rouen_FRA-Goussainville_FRA",
+      "comm1": "e_Rouen_FRA",
+      "comm2": "e_Goussainville_FRA",
+      "reg1": "FRA",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_FRA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rouen_FRA-Paris_FRA",
+      "comm1": "e_Rouen_FRA",
+      "comm2": "e_Paris_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5912,19 +5860,8 @@
       "cross_border": false
     },
     {
-      "tech": "g_Troyes_FRA-Annecy_FRA",
-      "comm1": "e_Troyes_FRA",
-      "comm2": "e_Annecy_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Troyes_FRA-Aurillac_FRA",
-      "comm1": "e_Troyes_FRA",
+      "tech": "g_Toulouse_FRA-Aurillac_FRA",
+      "comm1": "e_Toulouse_FRA",
       "comm2": "e_Aurillac_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
@@ -5934,9 +5871,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Troyes_FRA-CharlevilleMeziere_FRA",
-      "comm1": "e_Troyes_FRA",
-      "comm2": "e_CharlevilleMeziere_FRA",
+      "tech": "g_Toulouse_FRA-Perpignan_FRA",
+      "comm1": "e_Toulouse_FRA",
+      "comm2": "e_Perpignan_FRA",
       "reg1": "FRA",
       "reg2": "FRA",
       "comm": "ELC",
@@ -5945,174 +5882,31 @@
       "cross_border": false
     },
     {
-      "tech": "g_Troyes_FRA-Lille_FRA",
-      "comm1": "e_Troyes_FRA",
-      "comm2": "e_Lille_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
+      "tech": "g_Aberdeen_GBR-Newcastle_GBR",
+      "comm1": "e_Aberdeen_GBR",
+      "comm2": "e_Newcastle_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_FRA",
+      "sheet": "grid_links_GBR",
       "cross_border": false
     },
     {
-      "tech": "g_Troyes_FRA-Metz_FRA",
-      "comm1": "e_Troyes_FRA",
-      "comm2": "e_Metz_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
+      "tech": "g_Aberdeen_GBR-Paisley_GBR",
+      "comm1": "e_Aberdeen_GBR",
+      "comm2": "e_Paisley_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_FRA",
+      "sheet": "grid_links_GBR",
       "cross_border": false
     },
     {
-      "tech": "g_Troyes_FRA-Thionville_FRA",
-      "comm1": "e_Troyes_FRA",
-      "comm2": "e_Thionville_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Valence_FRA-Briancon_FRA",
-      "comm1": "e_Valence_FRA",
-      "comm2": "e_Briancon_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Valence_FRA-Lyon_FRA",
-      "comm1": "e_Valence_FRA",
-      "comm2": "e_Lyon_FRA",
-      "reg1": "FRA",
-      "reg2": "FRA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_FRA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Arlon_BEL-Seraing_BEL",
-      "comm1": "e_Arlon_BEL",
-      "comm2": "e_Seraing_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Aubange_BEL-Seraing_BEL",
-      "comm1": "e_Aubange_BEL",
-      "comm2": "e_Seraing_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bruges_BEL-Gent_BEL",
-      "comm1": "e_Bruges_BEL",
-      "comm2": "e_Gent_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Brussels_BEL-Gent_BEL",
-      "comm1": "e_Brussels_BEL",
-      "comm2": "e_Gent_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Brussels_BEL-Liege_BEL",
-      "comm1": "e_Brussels_BEL",
-      "comm2": "e_Liege_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Brussels_BEL-Schaarbeek_BEL",
-      "comm1": "e_Brussels_BEL",
-      "comm2": "e_Schaarbeek_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Kortrijk_BEL-Gent_BEL",
-      "comm1": "e_Kortrijk_BEL",
-      "comm2": "e_Gent_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Liege_BEL-Seraing_BEL",
-      "comm1": "e_Liege_BEL",
-      "comm2": "e_Seraing_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Namur_BEL-Liege_BEL",
-      "comm1": "e_Namur_BEL",
-      "comm2": "e_Liege_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Schaarbeek_BEL-Liege_BEL",
-      "comm1": "e_Schaarbeek_BEL",
-      "comm2": "e_Liege_BEL",
-      "reg1": "BEL",
-      "reg2": "BEL",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_BEL",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Ashford_GBR-Reading_GBR",
+      "tech": "g_Ashford_GBR-Portsmouth_GBR",
       "comm1": "e_Ashford_GBR",
-      "comm2": "e_Reading_GBR",
+      "comm2": "e_Portsmouth_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6165,64 +5959,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Elgin_GBR-Glasgow_GBR",
+      "tech": "g_Elgin_GBR-Paisley_GBR",
       "comm1": "e_Elgin_GBR",
-      "comm2": "e_Glasgow_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Glasgow_GBR-Aberdeen_GBR",
-      "comm1": "e_Glasgow_GBR",
-      "comm2": "e_Aberdeen_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Glasgow_GBR-Newcastle_GBR",
-      "comm1": "e_Glasgow_GBR",
-      "comm2": "e_Newcastle_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Glasgow_GBR-Paisley_GBR",
-      "comm1": "e_Glasgow_GBR",
       "comm2": "e_Paisley_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Glasgow_GBR-Preston_GBR",
-      "comm1": "e_Glasgow_GBR",
-      "comm2": "e_Preston_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Glasgow_GBR-Wick_GBR",
-      "comm1": "e_Glasgow_GBR",
-      "comm2": "e_Wick_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6242,9 +5981,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Liverpool_GBR-Manchester_GBR",
+      "tech": "g_Liverpool_GBR-Peterborough_GBR",
       "comm1": "e_Liverpool_GBR",
-      "comm2": "e_Manchester_GBR",
+      "comm2": "e_Peterborough_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6264,53 +6003,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Liverpool_GBR-Preston_GBR",
-      "comm1": "e_Liverpool_GBR",
-      "comm2": "e_Preston_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Liverpool_GBR-Reading_GBR",
-      "comm1": "e_Liverpool_GBR",
-      "comm2": "e_Reading_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Manchester_GBR-Liverpool_GBR",
-      "comm1": "e_Manchester_GBR",
-      "comm2": "e_Liverpool_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Manchester_GBR-Peterborough_GBR",
-      "comm1": "e_Manchester_GBR",
-      "comm2": "e_Peterborough_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Newcastle_GBR-Manchester_GBR",
+      "tech": "g_Newcastle_GBR-Liverpool_GBR",
       "comm1": "e_Newcastle_GBR",
-      "comm2": "e_Manchester_GBR",
+      "comm2": "e_Liverpool_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6322,6 +6017,28 @@
       "tech": "g_Paisley_GBR-Liverpool_GBR",
       "comm1": "e_Paisley_GBR",
       "comm2": "e_Liverpool_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Paisley_GBR-Newcastle_GBR",
+      "comm1": "e_Paisley_GBR",
+      "comm2": "e_Newcastle_GBR",
+      "reg1": "GBR",
+      "reg2": "GBR",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Paisley_GBR-Wick_GBR",
+      "comm1": "e_Paisley_GBR",
+      "comm2": "e_Wick_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6363,9 +6080,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Peterborough_GBR-Reading_GBR",
+      "tech": "g_Peterborough_GBR-Portsmouth_GBR",
       "comm1": "e_Peterborough_GBR",
-      "comm2": "e_Reading_GBR",
+      "comm2": "e_Portsmouth_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6374,41 +6091,8 @@
       "cross_border": false
     },
     {
-      "tech": "g_Portsmouth_GBR-Reading_GBR",
+      "tech": "g_Portsmouth_GBR-Basildon_GBR",
       "comm1": "e_Portsmouth_GBR",
-      "comm2": "e_Reading_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Preston_GBR-Manchester_GBR",
-      "comm1": "e_Preston_GBR",
-      "comm2": "e_Manchester_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Preston_GBR-Newcastle_GBR",
-      "comm1": "e_Preston_GBR",
-      "comm2": "e_Newcastle_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Reading_GBR-Basildon_GBR",
-      "comm1": "e_Reading_GBR",
       "comm2": "e_Basildon_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
@@ -6418,8 +6102,8 @@
       "cross_border": false
     },
     {
-      "tech": "g_Reading_GBR-Liverpool_GBR",
-      "comm1": "e_Reading_GBR",
+      "tech": "g_Portsmouth_GBR-Liverpool_GBR",
+      "comm1": "e_Portsmouth_GBR",
       "comm2": "e_Liverpool_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
@@ -6429,20 +6113,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Reading_GBR-Manchester_GBR",
-      "comm1": "e_Reading_GBR",
-      "comm2": "e_Manchester_GBR",
-      "reg1": "GBR",
-      "reg2": "GBR",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_GBR",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Stranraer_GBR-Glasgow_GBR",
+      "tech": "g_Stranraer_GBR-Paisley_GBR",
       "comm1": "e_Stranraer_GBR",
-      "comm2": "e_Glasgow_GBR",
+      "comm2": "e_Paisley_GBR",
       "reg1": "GBR",
       "reg2": "GBR",
       "comm": "ELC",
@@ -6473,201 +6146,124 @@
       "cross_border": false
     },
     {
-      "tech": "g_Amsterdam_NLD-Apeldoorn_NLD",
-      "comm1": "e_Amsterdam_NLD",
-      "comm2": "e_Apeldoorn_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Arlon_BEL-Seraing_BEL",
+      "comm1": "e_Arlon_BEL",
+      "comm2": "e_Seraing_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Amsterdam_NLD-Tilburg_NLD",
-      "comm1": "e_Amsterdam_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Aubange_BEL-Seraing_BEL",
+      "comm1": "e_Aubange_BEL",
+      "comm2": "e_Seraing_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Apeldoorn_NLD-Enschede_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Enschede_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Bruges_BEL-Gent_BEL",
+      "comm1": "e_Bruges_BEL",
+      "comm2": "e_Gent_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Apeldoorn_NLD-Groningen_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Groningen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Brussels_BEL-Charleroi_BEL",
+      "comm1": "e_Brussels_BEL",
+      "comm2": "e_Charleroi_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Apeldoorn_NLD-Leeuwarden_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Leeuwarden_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Brussels_BEL-Gent_BEL",
+      "comm1": "e_Brussels_BEL",
+      "comm2": "e_Gent_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Dokkum_NLD-Groningen_NLD",
-      "comm1": "e_Dokkum_NLD",
-      "comm2": "e_Groningen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Brussels_BEL-Liege_BEL",
+      "comm1": "e_Brussels_BEL",
+      "comm2": "e_Liege_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Eindhoven_NLD-Nijmegen_NLD",
-      "comm1": "e_Eindhoven_NLD",
-      "comm2": "e_Nijmegen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Charleroi_BEL-Liege_BEL",
+      "comm1": "e_Charleroi_BEL",
+      "comm2": "e_Liege_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Groningen_NLD-Veendam_NLD",
-      "comm1": "e_Groningen_NLD",
-      "comm2": "e_Veendam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Kortrijk_BEL-Gent_BEL",
+      "comm1": "e_Kortrijk_BEL",
+      "comm2": "e_Gent_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Leeuwarden_NLD-Groningen_NLD",
-      "comm1": "e_Leeuwarden_NLD",
-      "comm2": "e_Groningen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Liege_BEL-Hasselt_BEL",
+      "comm1": "e_Liege_BEL",
+      "comm2": "e_Hasselt_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Maastricht_NLD-Eindhoven_NLD",
-      "comm1": "e_Maastricht_NLD",
-      "comm2": "e_Eindhoven_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Liege_BEL-Seraing_BEL",
+      "comm1": "e_Liege_BEL",
+      "comm2": "e_Seraing_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
-      "tech": "g_Middelburg_NLD-Roosendaal_NLD",
-      "comm1": "e_Middelburg_NLD",
-      "comm2": "e_Roosendaal_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
+      "tech": "g_Namur_BEL-Liege_BEL",
+      "comm1": "e_Namur_BEL",
+      "comm2": "e_Liege_BEL",
+      "reg1": "BEL",
+      "reg2": "BEL",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Nijmegen_NLD-Enschede_NLD",
-      "comm1": "e_Nijmegen_NLD",
-      "comm2": "e_Enschede_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Roosendaal_NLD-Tilburg_NLD",
-      "comm1": "e_Roosendaal_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rotterdam_NLD-TheHague_NLD",
-      "comm1": "e_Rotterdam_NLD",
-      "comm2": "e_TheHague_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rotterdam_NLD-Tilburg_NLD",
-      "comm1": "e_Rotterdam_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_TheHague_NLD-Amsterdam_NLD",
-      "comm1": "e_TheHague_NLD",
-      "comm2": "e_Amsterdam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Tilburg_NLD-Amsterdam_NLD",
-      "comm1": "e_Tilburg_NLD",
-      "comm2": "e_Amsterdam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Tilburg_NLD-Eindhoven_NLD",
-      "comm1": "e_Tilburg_NLD",
-      "comm2": "e_Eindhoven_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
+      "sheet": "grid_links_BEL",
       "cross_border": false
     },
     {
@@ -6682,64 +6278,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_BadHersfeld_DEU-Frankfurt_DEU",
-      "comm1": "e_BadHersfeld_DEU",
-      "comm2": "e_Frankfurt_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_BadHersfeld_DEU-Hamburg_DEU",
-      "comm1": "e_BadHersfeld_DEU",
-      "comm2": "e_Hamburg_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_BadHersfeld_DEU-Jena_DEU",
-      "comm1": "e_BadHersfeld_DEU",
-      "comm2": "e_Jena_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bamberg_DEU-Amberg_DEU",
-      "comm1": "e_Bamberg_DEU",
-      "comm2": "e_Amberg_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bamberg_DEU-Chemnitz_DEU",
-      "comm1": "e_Bamberg_DEU",
-      "comm2": "e_Chemnitz_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bamberg_DEU-Munich_DEU",
-      "comm1": "e_Bamberg_DEU",
-      "comm2": "e_Munich_DEU",
+      "tech": "g_Amberg_DEU-Weilheim_DEU",
+      "comm1": "e_Amberg_DEU",
+      "comm2": "e_Weilheim_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -6781,20 +6322,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Cologne_DEU-Rheine_DEU",
+      "tech": "g_Cologne_DEU-Wurzburg_DEU",
       "comm1": "e_Cologne_DEU",
-      "comm2": "e_Rheine_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Cottbus_DEU-Eisenhuttenstadt_DEU",
-      "comm1": "e_Cottbus_DEU",
-      "comm2": "e_Eisenhuttenstadt_DEU",
+      "comm2": "e_Wurzburg_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -6839,6 +6369,28 @@
       "tech": "g_Eisenhuttenstadt_DEU-Bautzen_DEU",
       "comm1": "e_Eisenhuttenstadt_DEU",
       "comm2": "e_Bautzen_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Eisenhuttenstadt_DEU-Radebeul_DEU",
+      "comm1": "e_Eisenhuttenstadt_DEU",
+      "comm2": "e_Radebeul_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Eisenhuttenstadt_DEU-SchwedtOder_DEU",
+      "comm1": "e_Eisenhuttenstadt_DEU",
+      "comm2": "e_SchwedtOder_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -6902,61 +6454,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Frankfurt_DEU-Cologne_DEU",
-      "comm1": "e_Frankfurt_DEU",
-      "comm2": "e_Cologne_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Frankfurt_DEU-Ravensburg_DEU",
-      "comm1": "e_Frankfurt_DEU",
-      "comm2": "e_Ravensburg_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Frankfurt_DEU-Saarbrucken_DEU",
-      "comm1": "e_Frankfurt_DEU",
-      "comm2": "e_Saarbrucken_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Frankfurt_DEU-Trier_DEU",
-      "comm1": "e_Frankfurt_DEU",
-      "comm2": "e_Trier_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Frankfurt_DEU-Wurzburg_DEU",
-      "comm1": "e_Frankfurt_DEU",
-      "comm2": "e_Wurzburg_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
       "tech": "g_FreiburgImBreisgau_DEU-Lorrach_DEU",
       "comm1": "e_FreiburgImBreisgau_DEU",
       "comm2": "e_Lorrach_DEU",
@@ -6979,9 +6476,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Gustrow_DEU-Rostock_DEU",
+      "tech": "g_Friedrichshafen_DEU-Ulm_DEU",
+      "comm1": "e_Friedrichshafen_DEU",
+      "comm2": "e_Ulm_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Gustrow_DEU-Magdeburg_DEU",
       "comm1": "e_Gustrow_DEU",
-      "comm2": "e_Rostock_DEU",
+      "comm2": "e_Magdeburg_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7012,6 +6520,28 @@
       "cross_border": false
     },
     {
+      "tech": "g_Hamburg_DEU-Gustrow_DEU",
+      "comm1": "e_Hamburg_DEU",
+      "comm2": "e_Gustrow_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Hamburg_DEU-Jena_DEU",
+      "comm1": "e_Hamburg_DEU",
+      "comm2": "e_Jena_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
       "tech": "g_Hamburg_DEU-Lubeck_DEU",
       "comm1": "e_Hamburg_DEU",
       "comm2": "e_Lubeck_DEU",
@@ -7034,20 +6564,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Hamburg_DEU-Rostock_DEU",
-      "comm1": "e_Hamburg_DEU",
-      "comm2": "e_Rostock_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Jena_DEU-Bamberg_DEU",
+      "tech": "g_Jena_DEU-Amberg_DEU",
       "comm1": "e_Jena_DEU",
-      "comm2": "e_Bamberg_DEU",
+      "comm2": "e_Amberg_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7089,9 +6608,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Kempten_DEU-Munich_DEU",
+      "tech": "g_Kempten_DEU-Ulm_DEU",
       "comm1": "e_Kempten_DEU",
-      "comm2": "e_Munich_DEU",
+      "comm2": "e_Ulm_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7111,9 +6630,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lubeck_DEU-Rostock_DEU",
+      "tech": "g_Lubeck_DEU-Gustrow_DEU",
       "comm1": "e_Lubeck_DEU",
-      "comm2": "e_Rostock_DEU",
+      "comm2": "e_Gustrow_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7122,9 +6641,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Magdeburg_DEU-Cottbus_DEU",
+      "tech": "g_Magdeburg_DEU-Eisenhuttenstadt_DEU",
       "comm1": "e_Magdeburg_DEU",
-      "comm2": "e_Cottbus_DEU",
+      "comm2": "e_Eisenhuttenstadt_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7133,9 +6652,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Magdeburg_DEU-Radebeul_DEU",
+      "tech": "g_Magdeburg_DEU-SchwedtOder_DEU",
       "comm1": "e_Magdeburg_DEU",
-      "comm2": "e_Radebeul_DEU",
+      "comm2": "e_SchwedtOder_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7144,20 +6663,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Munich_DEU-Muhldorf_DEU",
-      "comm1": "e_Munich_DEU",
-      "comm2": "e_Muhldorf_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Offenburg_DEU-Frankfurt_DEU",
+      "tech": "g_Offenburg_DEU-Cologne_DEU",
       "comm1": "e_Offenburg_DEU",
-      "comm2": "e_Frankfurt_DEU",
+      "comm2": "e_Cologne_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7188,17 +6696,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Oldenburg_DEU-BadHersfeld_DEU",
-      "comm1": "e_Oldenburg_DEU",
-      "comm2": "e_BadHersfeld_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
       "tech": "g_Oldenburg_DEU-Elmshorn_DEU",
       "comm1": "e_Oldenburg_DEU",
       "comm2": "e_Elmshorn_DEU",
@@ -7221,6 +6718,17 @@
       "cross_border": false
     },
     {
+      "tech": "g_Oldenburg_DEU-Wurzburg_DEU",
+      "comm1": "e_Oldenburg_DEU",
+      "comm2": "e_Wurzburg_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
       "tech": "g_Radebeul_DEU-Bautzen_DEU",
       "comm1": "e_Radebeul_DEU",
       "comm2": "e_Bautzen_DEU",
@@ -7232,9 +6740,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Radebeul_DEU-Cottbus_DEU",
+      "tech": "g_Radebeul_DEU-Magdeburg_DEU",
       "comm1": "e_Radebeul_DEU",
-      "comm2": "e_Cottbus_DEU",
+      "comm2": "e_Magdeburg_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7243,9 +6751,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Radebeul_DEU-Eisenhuttenstadt_DEU",
+      "tech": "g_Radebeul_DEU-SchwedtOder_DEU",
       "comm1": "e_Radebeul_DEU",
-      "comm2": "e_Eisenhuttenstadt_DEU",
+      "comm2": "e_SchwedtOder_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7265,17 +6773,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Ravensburg_DEU-Kempten_DEU",
-      "comm1": "e_Ravensburg_DEU",
-      "comm2": "e_Kempten_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
       "tech": "g_Ravensburg_DEU-VillingenSchwennin_DEU",
       "comm1": "e_Ravensburg_DEU",
       "comm2": "e_VillingenSchwennin_DEU",
@@ -7287,9 +6784,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Rheine_DEU-BadHersfeld_DEU",
+      "tech": "g_Ravensburg_DEU-Wurzburg_DEU",
+      "comm1": "e_Ravensburg_DEU",
+      "comm2": "e_Wurzburg_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rheine_DEU-Cologne_DEU",
       "comm1": "e_Rheine_DEU",
-      "comm2": "e_BadHersfeld_DEU",
+      "comm2": "e_Cologne_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7301,17 +6809,6 @@
       "tech": "g_Rheine_DEU-Emden_DEU",
       "comm1": "e_Rheine_DEU",
       "comm2": "e_Emden_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rheine_DEU-Frankfurt_DEU",
-      "comm1": "e_Rheine_DEU",
-      "comm2": "e_Frankfurt_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7342,39 +6839,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Rostock_DEU-Magdeburg_DEU",
-      "comm1": "e_Rostock_DEU",
-      "comm2": "e_Magdeburg_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rostock_DEU-SchwedtOder_DEU",
-      "comm1": "e_Rostock_DEU",
-      "comm2": "e_SchwedtOder_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
-      "tech": "g_SchwedtOder_DEU-Cottbus_DEU",
-      "comm1": "e_SchwedtOder_DEU",
-      "comm2": "e_Cottbus_DEU",
-      "reg1": "DEU",
-      "reg2": "DEU",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_DEU",
-      "cross_border": false
-    },
-    {
       "tech": "g_Trier_DEU-Cologne_DEU",
       "comm1": "e_Trier_DEU",
       "comm2": "e_Cologne_DEU",
@@ -7389,6 +6853,28 @@
       "tech": "g_Trier_DEU-Saarbrucken_DEU",
       "comm1": "e_Trier_DEU",
       "comm2": "e_Saarbrucken_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Ulm_DEU-Ravensburg_DEU",
+      "comm1": "e_Ulm_DEU",
+      "comm2": "e_Ravensburg_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_DEU",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Ulm_DEU-Weilheim_DEU",
+      "comm1": "e_Ulm_DEU",
+      "comm2": "e_Weilheim_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7419,9 +6905,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Weilheim_DEU-Munich_DEU",
+      "tech": "g_Weilheim_DEU-Muhldorf_DEU",
       "comm1": "e_Weilheim_DEU",
-      "comm2": "e_Munich_DEU",
+      "comm2": "e_Muhldorf_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7430,9 +6916,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Wurzburg_DEU-Bamberg_DEU",
+      "tech": "g_Wurzburg_DEU-Amberg_DEU",
       "comm1": "e_Wurzburg_DEU",
-      "comm2": "e_Bamberg_DEU",
+      "comm2": "e_Amberg_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7441,9 +6927,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Wurzburg_DEU-Ravensburg_DEU",
+      "tech": "g_Wurzburg_DEU-Jena_DEU",
       "comm1": "e_Wurzburg_DEU",
-      "comm2": "e_Ravensburg_DEU",
+      "comm2": "e_Jena_DEU",
       "reg1": "DEU",
       "reg2": "DEU",
       "comm": "ELC",
@@ -7452,47 +6938,36 @@
       "cross_border": false
     },
     {
-      "tech": "g_Basel_CHE-Aarau_CHE",
-      "comm1": "e_Basel_CHE",
-      "comm2": "e_Aarau_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
+      "tech": "g_Wurzburg_DEU-Offenburg_DEU",
+      "comm1": "e_Wurzburg_DEU",
+      "comm2": "e_Offenburg_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_CHE",
+      "sheet": "grid_links_DEU",
       "cross_border": false
     },
     {
-      "tech": "g_Basel_CHE-Dietikon_CHE",
-      "comm1": "e_Basel_CHE",
-      "comm2": "e_Dietikon_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
+      "tech": "g_Wurzburg_DEU-Rheine_DEU",
+      "comm1": "e_Wurzburg_DEU",
+      "comm2": "e_Rheine_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_CHE",
+      "sheet": "grid_links_DEU",
       "cross_border": false
     },
     {
-      "tech": "g_Basel_CHE-Lucerne_CHE",
-      "comm1": "e_Basel_CHE",
-      "comm2": "e_Lucerne_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
+      "tech": "g_Wurzburg_DEU-Ulm_DEU",
+      "comm1": "e_Wurzburg_DEU",
+      "comm2": "e_Ulm_DEU",
+      "reg1": "DEU",
+      "reg2": "DEU",
       "comm": "ELC",
       "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Basel_CHE-Zurich_CHE",
-      "comm1": "e_Basel_CHE",
-      "comm2": "e_Zurich_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
+      "sheet": "grid_links_DEU",
       "cross_border": false
     },
     {
@@ -7540,9 +7015,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Bern_CHE-Basel_CHE",
-      "comm1": "e_Bern_CHE",
-      "comm2": "e_Basel_CHE",
+      "tech": "g_Bellinzona_CHE-Winterthur_CHE",
+      "comm1": "e_Bellinzona_CHE",
+      "comm2": "e_Winterthur_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7551,9 +7026,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Bern_CHE-Sion_CHE",
+      "tech": "g_Bern_CHE-Dietikon_CHE",
       "comm1": "e_Bern_CHE",
-      "comm2": "e_Sion_CHE",
+      "comm2": "e_Dietikon_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7562,9 +7037,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_BielBienne_CHE-Basel_CHE",
-      "comm1": "e_BielBienne_CHE",
-      "comm2": "e_Basel_CHE",
+      "tech": "g_Bern_CHE-Fully_CHE",
+      "comm1": "e_Bern_CHE",
+      "comm2": "e_Fully_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7576,6 +7051,17 @@
       "tech": "g_BielBienne_CHE-Bern_CHE",
       "comm1": "e_BielBienne_CHE",
       "comm2": "e_Bern_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_BielBienne_CHE-Dietikon_CHE",
+      "comm1": "e_BielBienne_CHE",
+      "comm2": "e_Dietikon_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7628,9 +7114,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Chur_CHE-Winterthur_CHE",
-      "comm1": "e_Chur_CHE",
-      "comm2": "e_Winterthur_CHE",
+      "tech": "g_Davos_CHE-Chur_CHE",
+      "comm1": "e_Davos_CHE",
+      "comm2": "e_Chur_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7639,9 +7125,64 @@
       "cross_border": false
     },
     {
-      "tech": "g_Davos_CHE-Chur_CHE",
-      "comm1": "e_Davos_CHE",
-      "comm2": "e_Chur_CHE",
+      "tech": "g_Dietikon_CHE-Aarau_CHE",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Aarau_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dietikon_CHE-Brugg_CHE",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Brugg_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dietikon_CHE-Lucerne_CHE",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Lucerne_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Dietikon_CHE-Zurich_CHE",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Zurich_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Fully_CHE-BrigGlis_CHE",
+      "comm1": "e_Fully_CHE",
+      "comm2": "e_BrigGlis_CHE",
+      "reg1": "CHE",
+      "reg2": "CHE",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_CHE",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Fully_CHE-Thun_CHE",
+      "comm1": "e_Fully_CHE",
+      "comm2": "e_Thun_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7661,31 +7202,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Kriens_CHE-Sion_CHE",
-      "comm1": "e_Kriens_CHE",
-      "comm2": "e_Sion_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
       "tech": "g_Landquart_CHE-Davos_CHE",
       "comm1": "e_Landquart_CHE",
       "comm2": "e_Davos_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Lausanne_CHE-Thun_CHE",
-      "comm1": "e_Lausanne_CHE",
-      "comm2": "e_Thun_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7705,20 +7224,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lucerne_CHE-Basel_CHE",
+      "tech": "g_Lucerne_CHE-Dietikon_CHE",
       "comm1": "e_Lucerne_CHE",
-      "comm2": "e_Basel_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Lucerne_CHE-Bellinzona_CHE",
-      "comm1": "e_Lucerne_CHE",
-      "comm2": "e_Bellinzona_CHE",
+      "comm2": "e_Dietikon_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7760,9 +7268,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Montreux_CHE-Geneva_CHE",
+      "tech": "g_Montreux_CHE-Fully_CHE",
       "comm1": "e_Montreux_CHE",
-      "comm2": "e_Geneva_CHE",
+      "comm2": "e_Fully_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7771,9 +7279,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Montreux_CHE-Lausanne_CHE",
+      "tech": "g_Montreux_CHE-Geneva_CHE",
       "comm1": "e_Montreux_CHE",
-      "comm2": "e_Lausanne_CHE",
+      "comm2": "e_Geneva_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7793,28 +7301,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Sion_CHE-BrigGlis_CHE",
-      "comm1": "e_Sion_CHE",
-      "comm2": "e_BrigGlis_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Sion_CHE-Lausanne_CHE",
-      "comm1": "e_Sion_CHE",
-      "comm2": "e_Lausanne_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
       "tech": "g_Thun_CHE-Bern_CHE",
       "comm1": "e_Thun_CHE",
       "comm2": "e_Bern_CHE",
@@ -7826,20 +7312,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Thun_CHE-Lausanne_CHE",
+      "tech": "g_Thun_CHE-Fully_CHE",
       "comm1": "e_Thun_CHE",
-      "comm2": "e_Lausanne_CHE",
-      "reg1": "CHE",
-      "reg2": "CHE",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_CHE",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Thun_CHE-Sion_CHE",
-      "comm1": "e_Thun_CHE",
-      "comm2": "e_Sion_CHE",
+      "comm2": "e_Fully_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7859,9 +7334,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_YverdonLesBains_CHE-Lausanne_CHE",
+      "tech": "g_YverdonLesBains_CHE-Fully_CHE",
       "comm1": "e_YverdonLesBains_CHE",
-      "comm2": "e_Lausanne_CHE",
+      "comm2": "e_Fully_CHE",
       "reg1": "CHE",
       "reg2": "CHE",
       "comm": "ELC",
@@ -7892,9 +7367,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Aosta_ITA-Turin_ITA",
+      "tech": "g_Aosta_ITA-Milan_ITA",
       "comm1": "e_Aosta_ITA",
-      "comm2": "e_Turin_ITA",
+      "comm2": "e_Milan_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -7903,9 +7378,31 @@
       "cross_border": false
     },
     {
-      "tech": "g_Brescia_ITA-Sondrio_ITA",
+      "tech": "g_Aosta_ITA-SanRemo_ITA",
+      "comm1": "e_Aosta_ITA",
+      "comm2": "e_SanRemo_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Aosta_ITA-Verbania_ITA",
+      "comm1": "e_Aosta_ITA",
+      "comm2": "e_Verbania_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Brescia_ITA-Tirano_ITA",
       "comm1": "e_Brescia_ITA",
-      "comm2": "e_Sondrio_ITA",
+      "comm2": "e_Tirano_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -7925,9 +7422,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Brescia_ITA-Venice_ITA",
-      "comm1": "e_Brescia_ITA",
-      "comm2": "e_Venice_ITA",
+      "tech": "g_Civitavecchia_ITA-Latina_ITA",
+      "comm1": "e_Civitavecchia_ITA",
+      "comm2": "e_Latina_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -7936,9 +7433,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Castrovillari_ITA-Lecce_ITA",
-      "comm1": "e_Castrovillari_ITA",
-      "comm2": "e_Lecce_ITA",
+      "tech": "g_Civitavecchia_ITA-Pescara_ITA",
+      "comm1": "e_Civitavecchia_ITA",
+      "comm2": "e_Pescara_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -7958,9 +7455,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lana_ITA-Sondrio_ITA",
+      "tech": "g_Lana_ITA-Tirano_ITA",
       "comm1": "e_Lana_ITA",
-      "comm2": "e_Sondrio_ITA",
+      "comm2": "e_Tirano_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -7980,9 +7477,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Latina_ITA-Naples_ITA",
+      "tech": "g_Latina_ITA-Pescara_ITA",
       "comm1": "e_Latina_ITA",
-      "comm2": "e_Naples_ITA",
+      "comm2": "e_Pescara_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8002,9 +7499,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Messina_ITA-Castrovillari_ITA",
+      "tech": "g_Messina_ITA-Calimera_ITA",
       "comm1": "e_Messina_ITA",
-      "comm2": "e_Castrovillari_ITA",
+      "comm2": "e_Calimera_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Messina_ITA-Lecce_ITA",
+      "comm1": "e_Messina_ITA",
+      "comm2": "e_Lecce_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8046,9 +7554,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Milan_ITA-Sondrio_ITA",
+      "tech": "g_Milan_ITA-Tirano_ITA",
       "comm1": "e_Milan_ITA",
-      "comm2": "e_Sondrio_ITA",
+      "comm2": "e_Tirano_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8057,20 +7565,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Morbegno_ITA-Sondrio_ITA",
+      "tech": "g_Morbegno_ITA-Tirano_ITA",
       "comm1": "e_Morbegno_ITA",
-      "comm2": "e_Sondrio_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Naples_ITA-Castrovillari_ITA",
-      "comm1": "e_Naples_ITA",
-      "comm2": "e_Castrovillari_ITA",
+      "comm2": "e_Tirano_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8090,9 +7587,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Pescara_ITA-Naples_ITA",
+      "tech": "g_Pescara_ITA-Lecce_ITA",
       "comm1": "e_Pescara_ITA",
-      "comm2": "e_Naples_ITA",
+      "comm2": "e_Lecce_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Pescara_ITA-Messina_ITA",
+      "comm1": "e_Pescara_ITA",
+      "comm2": "e_Messina_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8123,17 +7631,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Pinerolo_ITA-Turin_ITA",
-      "comm1": "e_Pinerolo_ITA",
-      "comm2": "e_Turin_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
       "tech": "g_Piombino_ITA-Brescia_ITA",
       "comm1": "e_Piombino_ITA",
       "comm2": "e_Brescia_ITA",
@@ -8145,9 +7642,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Piombino_ITA-Venice_ITA",
+      "tech": "g_Piombino_ITA-Civitavecchia_ITA",
       "comm1": "e_Piombino_ITA",
-      "comm2": "e_Venice_ITA",
+      "comm2": "e_Civitavecchia_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8156,9 +7653,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Piombino_ITA-Viterbo_ITA",
+      "tech": "g_Piombino_ITA-Pescara_ITA",
       "comm1": "e_Piombino_ITA",
-      "comm2": "e_Viterbo_ITA",
+      "comm2": "e_Pescara_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Piombino_ITA-Pordenone_ITA",
+      "comm1": "e_Piombino_ITA",
+      "comm2": "e_Pordenone_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8211,19 +7719,8 @@
       "cross_border": false
     },
     {
-      "tech": "g_Sondrio_ITA-Lana_ITA",
-      "comm1": "e_Sondrio_ITA",
-      "comm2": "e_Lana_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Sondrio_ITA-Trento_ITA",
-      "comm1": "e_Sondrio_ITA",
+      "tech": "g_Tirano_ITA-Trento_ITA",
+      "comm1": "e_Tirano_ITA",
       "comm2": "e_Trento_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
@@ -8244,6 +7741,17 @@
       "cross_border": false
     },
     {
+      "tech": "g_Trento_ITA-Piombino_ITA",
+      "comm1": "e_Trento_ITA",
+      "comm2": "e_Piombino_ITA",
+      "reg1": "ITA",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ITA",
+      "cross_border": false
+    },
+    {
       "tech": "g_Trento_ITA-Pordenone_ITA",
       "comm1": "e_Trento_ITA",
       "comm2": "e_Pordenone_ITA",
@@ -8255,75 +7763,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Trento_ITA-Venice_ITA",
-      "comm1": "e_Trento_ITA",
-      "comm2": "e_Venice_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
       "tech": "g_Trieste_ITA-Gorizia_ITA",
       "comm1": "e_Trieste_ITA",
       "comm2": "e_Gorizia_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Turin_ITA-Milan_ITA",
-      "comm1": "e_Turin_ITA",
-      "comm2": "e_Milan_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Turin_ITA-SanRemo_ITA",
-      "comm1": "e_Turin_ITA",
-      "comm2": "e_SanRemo_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Venice_ITA-Pescara_ITA",
-      "comm1": "e_Venice_ITA",
-      "comm2": "e_Pescara_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Venice_ITA-Pordenone_ITA",
-      "comm1": "e_Venice_ITA",
-      "comm2": "e_Pordenone_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Venice_ITA-Trieste_ITA",
-      "comm1": "e_Venice_ITA",
-      "comm2": "e_Trieste_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8354,20 +7796,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Viterbo_ITA-Latina_ITA",
-      "comm1": "e_Viterbo_ITA",
-      "comm2": "e_Latina_ITA",
-      "reg1": "ITA",
-      "reg2": "ITA",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ITA",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Viterbo_ITA-Pescara_ITA",
-      "comm1": "e_Viterbo_ITA",
-      "comm2": "e_Pescara_ITA",
+      "tech": "g_Verbania_ITA-Milan_ITA",
+      "comm1": "e_Verbania_ITA",
+      "comm2": "e_Milan_ITA",
       "reg1": "ITA",
       "reg2": "ITA",
       "comm": "ELC",
@@ -8398,39 +7829,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Alcaniz_ESP-Barcelona_ESP",
-      "comm1": "e_Alcaniz_ESP",
-      "comm2": "e_Barcelona_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Alcaniz_ESP-CastellonDeLaPlana_ESP",
-      "comm1": "e_Alcaniz_ESP",
-      "comm2": "e_CastellonDeLaPlana_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Algeciras_ESP-Sevilla_ESP",
-      "comm1": "e_Algeciras_ESP",
-      "comm2": "e_Sevilla_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
       "tech": "g_Algeciras_ESP-Valencia_ESP",
       "comm1": "e_Algeciras_ESP",
       "comm2": "e_Valencia_ESP",
@@ -8442,42 +7840,31 @@
       "cross_border": false
     },
     {
-      "tech": "g_Barcelona_ESP-Jaca_ESP",
-      "comm1": "e_Barcelona_ESP",
+      "tech": "g_Algeciras_ESP-Zafra_ESP",
+      "comm1": "e_Algeciras_ESP",
+      "comm2": "e_Zafra_ESP",
+      "reg1": "ESP",
+      "reg2": "ESP",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ESP",
+      "cross_border": false
+    },
+    {
+      "tech": "g_CastellonDeLaPlana_ESP-Barcelona_ESP",
+      "comm1": "e_CastellonDeLaPlana_ESP",
+      "comm2": "e_Barcelona_ESP",
+      "reg1": "ESP",
+      "reg2": "ESP",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ESP",
+      "cross_border": false
+    },
+    {
+      "tech": "g_CastellonDeLaPlana_ESP-Jaca_ESP",
+      "comm1": "e_CastellonDeLaPlana_ESP",
       "comm2": "e_Jaca_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bilbao_ESP-Donostia_ESP",
-      "comm1": "e_Bilbao_ESP",
-      "comm2": "e_Donostia_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Bilbao_ESP-Valladolid_ESP",
-      "comm1": "e_Bilbao_ESP",
-      "comm2": "e_Valladolid_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Burgos_ESP-Bilbao_ESP",
-      "comm1": "e_Burgos_ESP",
-      "comm2": "e_Bilbao_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8530,9 +7917,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Jaca_ESP-Alcaniz_ESP",
+      "tech": "g_Jaca_ESP-Barcelona_ESP",
       "comm1": "e_Jaca_ESP",
-      "comm2": "e_Alcaniz_ESP",
+      "comm2": "e_Barcelona_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8541,9 +7928,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Lepe_ESP-Sevilla_ESP",
+      "tech": "g_Lepe_ESP-Zafra_ESP",
       "comm1": "e_Lepe_ESP",
-      "comm2": "e_Sevilla_ESP",
+      "comm2": "e_Zafra_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8552,9 +7939,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Madrid_ESP-Alcaniz_ESP",
-      "comm1": "e_Madrid_ESP",
-      "comm2": "e_Alcaniz_ESP",
+      "tech": "g_NavalmoralDeLaMata_ESP-Algeciras_ESP",
+      "comm1": "e_NavalmoralDeLaMata_ESP",
+      "comm2": "e_Algeciras_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8563,42 +7950,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Madrid_ESP-Valencia_ESP",
-      "comm1": "e_Madrid_ESP",
-      "comm2": "e_Valencia_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Madrid_ESP-Valladolid_ESP",
-      "comm1": "e_Madrid_ESP",
+      "tech": "g_NavalmoralDeLaMata_ESP-Valladolid_ESP",
+      "comm1": "e_NavalmoralDeLaMata_ESP",
       "comm2": "e_Valladolid_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_NavalmoralDeLaMata_ESP-Madrid_ESP",
-      "comm1": "e_NavalmoralDeLaMata_ESP",
-      "comm2": "e_Madrid_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_NavalmoralDeLaMata_ESP-Sevilla_ESP",
-      "comm1": "e_NavalmoralDeLaMata_ESP",
-      "comm2": "e_Sevilla_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8640,9 +7994,9 @@
       "cross_border": false
     },
     {
-      "tech": "g_Valladolid_ESP-Burgos_ESP",
+      "tech": "g_Valladolid_ESP-Donostia_ESP",
       "comm1": "e_Valladolid_ESP",
-      "comm2": "e_Burgos_ESP",
+      "comm2": "e_Donostia_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8651,9 +8005,20 @@
       "cross_border": false
     },
     {
-      "tech": "g_Valladolid_ESP-Madrid_ESP",
+      "tech": "g_Valladolid_ESP-NavalmoralDeLaMata_ESP",
       "comm1": "e_Valladolid_ESP",
-      "comm2": "e_Madrid_ESP",
+      "comm2": "e_NavalmoralDeLaMata_ESP",
+      "reg1": "ESP",
+      "reg2": "ESP",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_ESP",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Valladolid_ESP-Valencia_ESP",
+      "comm1": "e_Valladolid_ESP",
+      "comm2": "e_Valencia_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8676,28 +8041,6 @@
       "tech": "g_Zafra_ESP-NavalmoralDeLaMata_ESP",
       "comm1": "e_Zafra_ESP",
       "comm2": "e_NavalmoralDeLaMata_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Zafra_ESP-Sevilla_ESP",
-      "comm1": "e_Zafra_ESP",
-      "comm2": "e_Sevilla_ESP",
-      "reg1": "ESP",
-      "reg2": "ESP",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_ESP",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Zamora_ESP-Burgos_ESP",
-      "comm1": "e_Zamora_ESP",
-      "comm2": "e_Burgos_ESP",
       "reg1": "ESP",
       "reg2": "ESP",
       "comm": "ELC",
@@ -8739,11 +8082,220 @@
       "cross_border": false
     },
     {
+      "tech": "g_Amsterdam_NLD-Apeldoorn_NLD",
+      "comm1": "e_Amsterdam_NLD",
+      "comm2": "e_Apeldoorn_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Amsterdam_NLD-Tilburg_NLD",
+      "comm1": "e_Amsterdam_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Enschede_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Enschede_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Hoogezand_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Hoogezand_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Leeuwarden_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Leeuwarden_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Eindhoven_NLD-Nijmegen_NLD",
+      "comm1": "e_Eindhoven_NLD",
+      "comm2": "e_Nijmegen_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Hoogezand_NLD-Veendam_NLD",
+      "comm1": "e_Hoogezand_NLD",
+      "comm2": "e_Veendam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Leeuwarden_NLD-Veendam_NLD",
+      "comm1": "e_Leeuwarden_NLD",
+      "comm2": "e_Veendam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Maastricht_NLD-Eindhoven_NLD",
+      "comm1": "e_Maastricht_NLD",
+      "comm2": "e_Eindhoven_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nijmegen_NLD-Enschede_NLD",
+      "comm1": "e_Nijmegen_NLD",
+      "comm2": "e_Enschede_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Roosendaal_NLD-Tilburg_NLD",
+      "comm1": "e_Roosendaal_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Amsterdam_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Amsterdam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Roosendaal_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Roosendaal_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Tilburg_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Tilburg_NLD-Eindhoven_NLD",
+      "comm1": "e_Tilburg_NLD",
+      "comm2": "e_Eindhoven_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Veendam_NLD-Groningen_NLD",
+      "comm1": "e_Veendam_NLD",
+      "comm2": "e_Groningen_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Veendam_NLD-Hoogezand_NLD",
+      "comm1": "e_Veendam_NLD",
+      "comm2": "e_Hoogezand_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Charleroi_BEL-Mohon_FRA",
+      "comm1": "e_Charleroi_BEL",
+      "comm2": "e_Mohon_FRA",
+      "reg1": "BEL",
+      "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
       "tech": "g_Arlon_BEL-Thionville_FRA",
       "comm1": "e_Arlon_BEL",
       "comm2": "e_Thionville_FRA",
       "reg1": "BEL",
       "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
+      "tech": "g_Hasselt_BEL-Maastricht_NLD",
+      "comm1": "e_Hasselt_BEL",
+      "comm2": "e_Maastricht_NLD",
+      "reg1": "BEL",
+      "reg2": "NLD",
       "comm": "ELC",
       "tradelink": "B",
       "sheet": "grid_links_crossborder",
@@ -8777,6 +8329,17 @@
       "comm2": "e_Annecy_FRA",
       "reg1": "CHE",
       "reg2": "FRA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
+      "tech": "g_Dietikon_CHE-VillingenSchwennin_DEU",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_VillingenSchwennin_DEU",
+      "reg1": "CHE",
+      "reg2": "DEU",
       "comm": "ELC",
       "tradelink": "B",
       "sheet": "grid_links_crossborder",
@@ -8827,6 +8390,39 @@
       "cross_border": true
     },
     {
+      "tech": "g_Davos_CHE-Tirano_ITA",
+      "comm1": "e_Davos_CHE",
+      "comm2": "e_Tirano_ITA",
+      "reg1": "CHE",
+      "reg2": "ITA",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
+      "tech": "g_Dietikon_CHE-Donaueschingen_DEU",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Donaueschingen_DEU",
+      "reg1": "CHE",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
+      "tech": "g_Dietikon_CHE-Lorrach_DEU",
+      "comm1": "e_Dietikon_CHE",
+      "comm2": "e_Lorrach_DEU",
+      "reg1": "CHE",
+      "reg2": "DEU",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
       "tech": "g_Bellinzona_CHE-Como_ITA",
       "comm1": "e_Bellinzona_CHE",
       "comm2": "e_Como_ITA",
@@ -8841,6 +8437,17 @@
       "tech": "g_Duisburg_DEU-Nijmegen_NLD",
       "comm1": "e_Duisburg_DEU",
       "comm2": "e_Nijmegen_NLD",
+      "reg1": "DEU",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
+    },
+    {
+      "tech": "g_Emden_DEU-Hoogezand_NLD",
+      "comm1": "e_Emden_DEU",
+      "comm2": "e_Hoogezand_NLD",
       "reg1": "DEU",
       "reg2": "NLD",
       "comm": "ELC",
@@ -8915,8 +8522,8 @@
       "cross_border": true
     },
     {
-      "tech": "g_Girona_ESP-Perpignan_FRA",
-      "comm1": "e_Girona_ESP",
+      "tech": "g_Granollers_ESP-Perpignan_FRA",
+      "comm1": "e_Granollers_ESP",
       "comm2": "e_Perpignan_FRA",
       "reg1": "ESP",
       "reg2": "FRA",
@@ -8979,32 +8586,43 @@
       "tradelink": "B",
       "sheet": "grid_links_crossborder",
       "cross_border": true
+    },
+    {
+      "tech": "g_Basildon_GBR-Rotterdam_NLD",
+      "comm1": "e_Basildon_GBR",
+      "comm2": "e_Rotterdam_NLD",
+      "reg1": "GBR",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_crossborder",
+      "cross_border": true
     }
   ],
   "meta": {
     "source": "C:\\Veda\\Veda\\Veda_models\\vervestacks_models\\VS_CEA_8C\\SuppXLS\\trades\\scentrade__trade_links.xlsx",
     "node_sheets": [
       "grid_links_FRA",
-      "grid_links_BEL",
       "grid_links_GBR",
-      "grid_links_NLD",
-      "grid_links_DEU",
-      "grid_links_CHE",
-      "grid_links_ITA",
-      "grid_links_ESP"
-    ],
-    "link_sheets": [
-      "grid_links_FRA",
       "grid_links_BEL",
-      "grid_links_GBR",
-      "grid_links_NLD",
       "grid_links_DEU",
       "grid_links_CHE",
       "grid_links_ITA",
       "grid_links_ESP",
+      "grid_links_NLD"
+    ],
+    "link_sheets": [
+      "grid_links_FRA",
+      "grid_links_GBR",
+      "grid_links_BEL",
+      "grid_links_DEU",
+      "grid_links_CHE",
+      "grid_links_ITA",
+      "grid_links_ESP",
+      "grid_links_NLD",
       "grid_links_crossborder"
     ],
-    "n_nodes": 593,
-    "n_links": 331
+    "n_nodes": 575,
+    "n_links": 311
   }
 }
