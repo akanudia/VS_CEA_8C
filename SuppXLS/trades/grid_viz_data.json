@@ -1801,6 +1801,348 @@
       "sheet": "grid_links_GBR"
     },
     {
+      "commodity": "e_Amsterdam_NLD",
+      "region": "NLD",
+      "lng": 4.679143231304081,
+      "lat": 52.47266212490795,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Apeldoorn_NLD",
+      "region": "NLD",
+      "lng": 6.190173187962263,
+      "lat": 52.529986002303126,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Eindhoven_NLD",
+      "region": "NLD",
+      "lng": 5.532679075463205,
+      "lat": 51.44649572108322,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Enschede_NLD",
+      "region": "NLD",
+      "lng": 6.759177522035682,
+      "lat": 52.248856707990974,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Groningen_NLD",
+      "region": "NLD",
+      "lng": 6.867110161353447,
+      "lat": 53.43563175554328,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Hoogezand_NLD",
+      "region": "NLD",
+      "lng": 6.950667098919838,
+      "lat": 53.1240201342966,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Leeuwarden_NLD",
+      "region": "NLD",
+      "lng": 5.875599596934527,
+      "lat": 53.18955594282147,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Maastricht_NLD",
+      "region": "NLD",
+      "lng": 5.918474082201949,
+      "lat": 51.1484319333322,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Nijmegen_NLD",
+      "region": "NLD",
+      "lng": 6.251762402588893,
+      "lat": 51.98171748595875,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Roosendaal_NLD",
+      "region": "NLD",
+      "lng": 4.2187196468336765,
+      "lat": 51.42385981899704,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Rotterdam_NLD",
+      "region": "NLD",
+      "lng": 4.021609637881493,
+      "lat": 51.95695895697931,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Tilburg_NLD",
+      "region": "NLD",
+      "lng": 4.833331644263822,
+      "lat": 51.70026041457903,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "e_Veendam_NLD",
+      "region": "NLD",
+      "lng": 6.866264187775912,
+      "lat": 53.43462812475893,
+      "kind": "bus",
+      "kind_label": "grid bus",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_001",
+      "region": "NLD",
+      "lng": 5.234784476488788,
+      "lat": 52.81949770520731,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_002",
+      "region": "NLD",
+      "lng": 6.619067351509676,
+      "lat": 52.8150846678453,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_003",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.50691880321298,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_004",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.014849545344326,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_005",
+      "region": "NLD",
+      "lng": 4.991473150167933,
+      "lat": 51.4645097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_006",
+      "region": "NLD",
+      "lng": 5.16167153066892,
+      "lat": 52.03743593729239,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_007",
+      "region": "NLD",
+      "lng": 6.714731292779038,
+      "lat": 52.13028914343916,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_008",
+      "region": "NLD",
+      "lng": 6.004365646389518,
+      "lat": 52.07007055213939,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_009",
+      "region": "NLD",
+      "lng": 5.628376953580943,
+      "lat": 51.01484954534433,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_spv_NLD_010",
+      "region": "NLD",
+      "lng": 6.004365646389517,
+      "lat": 51.4645097272066,
+      "kind": "spv",
+      "kind_label": "solar",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_001",
+      "region": "NLD",
+      "lng": 3.107133194718686,
+      "lat": 52.34484927397537,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_002",
+      "region": "NLD",
+      "lng": 3.1071343638324347,
+      "lat": 53.69379578381529,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_003",
+      "region": "NLD",
+      "lng": 3.107134779797478,
+      "lat": 54.143444276967365,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_004",
+      "region": "NLD",
+      "lng": 4.527932612035264,
+      "lat": 54.14344385338472,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_wof_NLD_005",
+      "region": "NLD",
+      "lng": 4.527932953602623,
+      "lat": 54.59309217245873,
+      "kind": "wof",
+      "kind_label": "wind offshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_001",
+      "region": "NLD",
+      "lng": 6.004365646389518,
+      "lat": 51.91416990906886,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_002",
+      "region": "NLD",
+      "lng": 5.635222797853418,
+      "lat": 51.01484954534433,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_003",
+      "region": "NLD",
+      "lng": 4.987730393544114,
+      "lat": 51.46450972720661,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_004",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.01484954534434,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_005",
+      "region": "NLD",
+      "lng": 6.0383114660284525,
+      "lat": 53.26315045465568,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_006",
+      "region": "NLD",
+      "lng": 5.119626294695908,
+      "lat": 53.26315045465569,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_007",
+      "region": "NLD",
+      "lng": 5.114550981103037,
+      "lat": 52.69989936523427,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_008",
+      "region": "NLD",
+      "lng": 6.483992840575168,
+      "lat": 52.55441437376838,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_009",
+      "region": "NLD",
+      "lng": 4.915113321345397,
+      "lat": 52.12399550194876,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
+      "commodity": "elc_won_NLD_010",
+      "region": "NLD",
+      "lng": 3.873268707220965,
+      "lat": 51.4645097272066,
+      "kind": "won",
+      "kind_label": "wind onshore",
+      "sheet": "grid_links_NLD"
+    },
+    {
       "commodity": "e_Arlon_BEL",
       "region": "BEL",
       "lng": 5.797337981197888,
@@ -4832,348 +5174,6 @@
       "kind": "won",
       "kind_label": "wind onshore",
       "sheet": "grid_links_ESP"
-    },
-    {
-      "commodity": "e_Amsterdam_NLD",
-      "region": "NLD",
-      "lng": 4.679143231304081,
-      "lat": 52.47266212490795,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Apeldoorn_NLD",
-      "region": "NLD",
-      "lng": 6.190173187962263,
-      "lat": 52.529986002303126,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Eindhoven_NLD",
-      "region": "NLD",
-      "lng": 5.532679075463205,
-      "lat": 51.44649572108322,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Enschede_NLD",
-      "region": "NLD",
-      "lng": 6.759177522035682,
-      "lat": 52.248856707990974,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Groningen_NLD",
-      "region": "NLD",
-      "lng": 6.867110161353447,
-      "lat": 53.43563175554328,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Hoogezand_NLD",
-      "region": "NLD",
-      "lng": 6.950667098919838,
-      "lat": 53.1240201342966,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Leeuwarden_NLD",
-      "region": "NLD",
-      "lng": 5.875599596934527,
-      "lat": 53.18955594282147,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Maastricht_NLD",
-      "region": "NLD",
-      "lng": 5.918474082201949,
-      "lat": 51.1484319333322,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Nijmegen_NLD",
-      "region": "NLD",
-      "lng": 6.251762402588893,
-      "lat": 51.98171748595875,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Roosendaal_NLD",
-      "region": "NLD",
-      "lng": 4.2187196468336765,
-      "lat": 51.42385981899704,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Rotterdam_NLD",
-      "region": "NLD",
-      "lng": 4.021609637881493,
-      "lat": 51.95695895697931,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Tilburg_NLD",
-      "region": "NLD",
-      "lng": 4.833331644263822,
-      "lat": 51.70026041457903,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "e_Veendam_NLD",
-      "region": "NLD",
-      "lng": 6.866264187775912,
-      "lat": 53.43462812475893,
-      "kind": "bus",
-      "kind_label": "grid bus",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_001",
-      "region": "NLD",
-      "lng": 5.234784476488788,
-      "lat": 52.81949770520731,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_002",
-      "region": "NLD",
-      "lng": 6.619067351509676,
-      "lat": 52.8150846678453,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_003",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.50691880321298,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_004",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.014849545344326,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_005",
-      "region": "NLD",
-      "lng": 4.991473150167933,
-      "lat": 51.4645097272066,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_006",
-      "region": "NLD",
-      "lng": 5.16167153066892,
-      "lat": 52.03743593729239,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_007",
-      "region": "NLD",
-      "lng": 6.714731292779038,
-      "lat": 52.13028914343916,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_008",
-      "region": "NLD",
-      "lng": 6.004365646389518,
-      "lat": 52.07007055213939,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_009",
-      "region": "NLD",
-      "lng": 5.628376953580943,
-      "lat": 51.01484954534433,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_spv_NLD_010",
-      "region": "NLD",
-      "lng": 6.004365646389517,
-      "lat": 51.4645097272066,
-      "kind": "spv",
-      "kind_label": "solar",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_001",
-      "region": "NLD",
-      "lng": 3.107133194718686,
-      "lat": 52.34484927397537,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_002",
-      "region": "NLD",
-      "lng": 3.1071343638324347,
-      "lat": 53.69379578381529,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_003",
-      "region": "NLD",
-      "lng": 3.107134779797478,
-      "lat": 54.143444276967365,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_004",
-      "region": "NLD",
-      "lng": 4.527932612035264,
-      "lat": 54.14344385338472,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_wof_NLD_005",
-      "region": "NLD",
-      "lng": 4.527932953602623,
-      "lat": 54.59309217245873,
-      "kind": "wof",
-      "kind_label": "wind offshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_001",
-      "region": "NLD",
-      "lng": 6.004365646389518,
-      "lat": 51.91416990906886,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_002",
-      "region": "NLD",
-      "lng": 5.635222797853418,
-      "lat": 51.01484954534433,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_003",
-      "region": "NLD",
-      "lng": 4.987730393544114,
-      "lat": 51.46450972720661,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_004",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.01484954534434,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_005",
-      "region": "NLD",
-      "lng": 6.0383114660284525,
-      "lat": 53.26315045465568,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_006",
-      "region": "NLD",
-      "lng": 5.119626294695908,
-      "lat": 53.26315045465569,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_007",
-      "region": "NLD",
-      "lng": 5.114550981103037,
-      "lat": 52.69989936523427,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_008",
-      "region": "NLD",
-      "lng": 6.483992840575168,
-      "lat": 52.55441437376838,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_009",
-      "region": "NLD",
-      "lng": 4.915113321345397,
-      "lat": 52.12399550194876,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
-    },
-    {
-      "commodity": "elc_won_NLD_010",
-      "region": "NLD",
-      "lng": 3.873268707220965,
-      "lat": 51.4645097272066,
-      "kind": "won",
-      "kind_label": "wind onshore",
-      "sheet": "grid_links_NLD"
     }
   ],
   "links": [
@@ -6143,6 +6143,193 @@
       "comm": "ELC",
       "tradelink": "B",
       "sheet": "grid_links_GBR",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Amsterdam_NLD-Apeldoorn_NLD",
+      "comm1": "e_Amsterdam_NLD",
+      "comm2": "e_Apeldoorn_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Amsterdam_NLD-Tilburg_NLD",
+      "comm1": "e_Amsterdam_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Enschede_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Enschede_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Hoogezand_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Hoogezand_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Apeldoorn_NLD-Leeuwarden_NLD",
+      "comm1": "e_Apeldoorn_NLD",
+      "comm2": "e_Leeuwarden_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Eindhoven_NLD-Nijmegen_NLD",
+      "comm1": "e_Eindhoven_NLD",
+      "comm2": "e_Nijmegen_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Hoogezand_NLD-Veendam_NLD",
+      "comm1": "e_Hoogezand_NLD",
+      "comm2": "e_Veendam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Leeuwarden_NLD-Veendam_NLD",
+      "comm1": "e_Leeuwarden_NLD",
+      "comm2": "e_Veendam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Maastricht_NLD-Eindhoven_NLD",
+      "comm1": "e_Maastricht_NLD",
+      "comm2": "e_Eindhoven_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Nijmegen_NLD-Enschede_NLD",
+      "comm1": "e_Nijmegen_NLD",
+      "comm2": "e_Enschede_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Roosendaal_NLD-Tilburg_NLD",
+      "comm1": "e_Roosendaal_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Amsterdam_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Amsterdam_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Roosendaal_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Roosendaal_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Rotterdam_NLD-Tilburg_NLD",
+      "comm1": "e_Rotterdam_NLD",
+      "comm2": "e_Tilburg_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Tilburg_NLD-Eindhoven_NLD",
+      "comm1": "e_Tilburg_NLD",
+      "comm2": "e_Eindhoven_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Veendam_NLD-Groningen_NLD",
+      "comm1": "e_Veendam_NLD",
+      "comm2": "e_Groningen_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
+      "cross_border": false
+    },
+    {
+      "tech": "g_Veendam_NLD-Hoogezand_NLD",
+      "comm1": "e_Veendam_NLD",
+      "comm2": "e_Hoogezand_NLD",
+      "reg1": "NLD",
+      "reg2": "NLD",
+      "comm": "ELC",
+      "tradelink": "B",
+      "sheet": "grid_links_NLD",
       "cross_border": false
     },
     {
@@ -8082,193 +8269,6 @@
       "cross_border": false
     },
     {
-      "tech": "g_Amsterdam_NLD-Apeldoorn_NLD",
-      "comm1": "e_Amsterdam_NLD",
-      "comm2": "e_Apeldoorn_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Amsterdam_NLD-Tilburg_NLD",
-      "comm1": "e_Amsterdam_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Apeldoorn_NLD-Enschede_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Enschede_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Apeldoorn_NLD-Hoogezand_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Hoogezand_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Apeldoorn_NLD-Leeuwarden_NLD",
-      "comm1": "e_Apeldoorn_NLD",
-      "comm2": "e_Leeuwarden_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Eindhoven_NLD-Nijmegen_NLD",
-      "comm1": "e_Eindhoven_NLD",
-      "comm2": "e_Nijmegen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Hoogezand_NLD-Veendam_NLD",
-      "comm1": "e_Hoogezand_NLD",
-      "comm2": "e_Veendam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Leeuwarden_NLD-Veendam_NLD",
-      "comm1": "e_Leeuwarden_NLD",
-      "comm2": "e_Veendam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Maastricht_NLD-Eindhoven_NLD",
-      "comm1": "e_Maastricht_NLD",
-      "comm2": "e_Eindhoven_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Nijmegen_NLD-Enschede_NLD",
-      "comm1": "e_Nijmegen_NLD",
-      "comm2": "e_Enschede_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Roosendaal_NLD-Tilburg_NLD",
-      "comm1": "e_Roosendaal_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rotterdam_NLD-Amsterdam_NLD",
-      "comm1": "e_Rotterdam_NLD",
-      "comm2": "e_Amsterdam_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rotterdam_NLD-Roosendaal_NLD",
-      "comm1": "e_Rotterdam_NLD",
-      "comm2": "e_Roosendaal_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Rotterdam_NLD-Tilburg_NLD",
-      "comm1": "e_Rotterdam_NLD",
-      "comm2": "e_Tilburg_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Tilburg_NLD-Eindhoven_NLD",
-      "comm1": "e_Tilburg_NLD",
-      "comm2": "e_Eindhoven_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Veendam_NLD-Groningen_NLD",
-      "comm1": "e_Veendam_NLD",
-      "comm2": "e_Groningen_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
-      "tech": "g_Veendam_NLD-Hoogezand_NLD",
-      "comm1": "e_Veendam_NLD",
-      "comm2": "e_Hoogezand_NLD",
-      "reg1": "NLD",
-      "reg2": "NLD",
-      "comm": "ELC",
-      "tradelink": "B",
-      "sheet": "grid_links_NLD",
-      "cross_border": false
-    },
-    {
       "tech": "g_Charleroi_BEL-Mohon_FRA",
       "comm1": "e_Charleroi_BEL",
       "comm2": "e_Mohon_FRA",
@@ -8604,22 +8604,22 @@
     "node_sheets": [
       "grid_links_FRA",
       "grid_links_GBR",
+      "grid_links_NLD",
       "grid_links_BEL",
       "grid_links_DEU",
       "grid_links_CHE",
       "grid_links_ITA",
-      "grid_links_ESP",
-      "grid_links_NLD"
+      "grid_links_ESP"
     ],
     "link_sheets": [
       "grid_links_FRA",
       "grid_links_GBR",
+      "grid_links_NLD",
       "grid_links_BEL",
       "grid_links_DEU",
       "grid_links_CHE",
       "grid_links_ITA",
       "grid_links_ESP",
-      "grid_links_NLD",
       "grid_links_crossborder"
     ],
     "n_nodes": 575,
